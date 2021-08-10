@@ -5,7 +5,6 @@ Final Grade Received - A+
 ## Authors
 * [Dhrumil Amish Shah](dh416386@dal.ca) - *(Creator)*
 <br/>
-<br/>
 
 ## Assignments
 
@@ -23,7 +22,6 @@ Final Grade Received - A+
 
 ### Assignment 5 (Grade Received - 100%)
 *  The objective of this assignment is to understand Database Administration, and Database Security.
-<br/>
 <br/>
 
 ## Final Project (Group Project | DP-17)
