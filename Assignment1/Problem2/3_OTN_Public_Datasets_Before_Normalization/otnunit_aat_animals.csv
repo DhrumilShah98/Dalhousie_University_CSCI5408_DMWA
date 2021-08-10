@@ -1,0 +1,1001 @@
+animal_project_reference,datacenter_reference,animal_reference_id,vernacularname,scientificname,aphiaid,tsn,animal_origin,stock,length,length_type,weight,life_stage,age,sex
+FRO,OTN-Global,FRO-T14,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.561,FORK,2.35,UNK,NULL,U
+FRO,OTN-Global,FRO-T2,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.576,FORK,2.53,UNK,NULL,U
+FRO,OTN-Global,FRO-T25,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.57,FORK,2.41,UNK,NULL,U
+FRO,OTN-Global,FRO-T26,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.6,FORK,2.8,UNK,NULL,U
+FRO,OTN-Global,FRO-T27,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.55,FORK,2.17,UNK,NULL,U
+FRO,OTN-Global,FRO-T28,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.49,FORK,1.55,UNK,NULL,U
+FRO,OTN-Global,FRO-T29,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.45,FORK,1.24,UNK,NULL,U
+FRO,OTN-Global,FRO-T5,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.521,FORK,1.89,UNK,NULL,U
+FRO,OTN-Global,FRO-T1,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.556,FORK,2.29,UNK,NULL,U
+FRO,OTN-Global,FRO-T41,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.54,FORK,2.15,UNK,NULL,U
+FRO,OTN-Global,FRO-T8,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.588,FORK,2.69,UNK,NULL,U
+FRO,OTN-Global,FRO-T7,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.64,FORK,3.44,UNK,NULL,U
+FRO,OTN-Global,FRO-T4,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.54,FORK,2.1,UNK,NULL,U
+FRO,OTN-Global,FRO-T6,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.612,FORK,3.02,UNK,NULL,U
+FRO,OTN-Global,FRO-T9,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.6,FORK,2.85,UNK,NULL,U
+FRO,OTN-Global,FRO-T10,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.544,FORK,2.15,UNK,NULL,U
+FRO,OTN-Global,FRO-T13,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.586,FORK,2.66,UNK,NULL,U
+FRO,OTN-Global,FRO-T11,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.596,FORK,2.8,UNK,NULL,U
+FRO,OTN-Global,FRO-T12,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.54,FORK,2.1,UNK,NULL,U
+FRO,OTN-Global,FRO-T33,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.53,FORK,1.97,UNK,NULL,U
+FRO,OTN-Global,FRO-T31,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.53,FORK,1.99,UNK,NULL,U
+FRO,OTN-Global,FRO-T32,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.57,FORK,2.41,UNK,NULL,U
+FRO,OTN-Global,FRO-T16,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.554,FORK,2.26,UNK,NULL,U
+FRO,OTN-Global,FRO-T35,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.31,FORK,0.4,UNK,NULL,U
+FRO,OTN-Global,FRO-T30,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.36,FORK,0.66,UNK,NULL,U
+FRO,OTN-Global,FRO-T34,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.33,FORK,0.5,UNK,NULL,U
+FRO,OTN-Global,FRO-T37,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.31,FORK,0.43,UNK,NULL,U
+FRO,OTN-Global,FRO-T36,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.32,FORK,0.46,UNK,NULL,U
+FRO,OTN-Global,FRO-T18,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.519,FORK,1.87,UNK,NULL,U
+FRO,OTN-Global,FRO-T17,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.556,FORK,2.29,UNK,NULL,U
+FRO,OTN-Global,FRO-T19,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.634,FORK,3.34,UNK,NULL,U
+FRO,OTN-Global,FRO-T20,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.585,FORK,2.65,UNK,NULL,U
+FRO,OTN-Global,FRO-T15,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.569,FORK,2.44,UNK,NULL,U
+FRO,OTN-Global,FRO-T24,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.57,FORK,2.48,UNK,NULL,U
+FRO,OTN-Global,FRO-T22,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.646,FORK,3.53,UNK,NULL,U
+FRO,OTN-Global,FRO-T21,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.61,FORK,2.99,UNK,NULL,U
+FRO,OTN-Global,FRO-T23,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.58,FORK,2.58,UNK,NULL,U
+FRO,OTN-Global,FRO-T42,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.6,FORK,1.91,UNK,NULL,U
+FRO,OTN-Global,FRO-T43,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.278,FORK,0.12,UNK,NULL,U
+FRO,OTN-Global,FRO-T44,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.492,FORK,1,UNK,NULL,U
+FRO,OTN-Global,FRO-T45,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.329,FORK,0.31,UNK,NULL,U
+FRO,OTN-Global,FRO-T46,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.714,FORK,3.82,UNK,NULL,U
+FRO,OTN-Global,FRO-T47,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.6,FORK,2.2,UNK,NULL,U
+FRO,OTN-Global,FRO-T48,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.567,FORK,1.84,UNK,NULL,U
+FRO,OTN-Global,FRO-T49,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.619,FORK,2.43,UNK,NULL,U
+FRO,OTN-Global,FRO-T50,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.534,FORK,1.52,UNK,NULL,U
+FRO,OTN-Global,FRO-T51,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.616,FORK,2.39,UNK,NULL,U
+FRO,OTN-Global,FRO-T52,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.618,FORK,2.42,UNK,NULL,U
+FRO,OTN-Global,FRO-T53,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.566,FORK,1.83,UNK,NULL,U
+FRO,OTN-Global,FRO-T54,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.507,FORK,1.29,UNK,NULL,U
+FRO,OTN-Global,FRO-T55,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.579,FORK,1.96,UNK,NULL,U
+FRO,OTN-Global,FRO-T56,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.525,FORK,1.44,UNK,NULL,U
+FRO,OTN-Global,FRO-T57,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.32,FORK,0.3,UNK,NULL,U
+FRO,OTN-Global,FRO-T58,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.509,FORK,1.31,UNK,NULL,U
+FRO,OTN-Global,FRO-T59,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.37,FORK,0.47,UNK,NULL,U
+FRO,OTN-Global,FRO-T60,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.545,FORK,1.62,UNK,NULL,U
+FRO,OTN-Global,FRO-T61,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.533,FORK,1.3,UNK,NULL,U
+FRO,OTN-Global,FRO-T39,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.62,FORK,3.08,UNK,NULL,U
+FRO,OTN-Global,FRO-T38,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.53,FORK,1.99,UNK,NULL,U
+FRO,OTN-Global,FRO-T3,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.594,FORK,2.77,UNK,NULL,U
+FRO,OTN-Global,FRO-T40,Arctic char,Salvelinus alpinus,127188,162001,W,UNK,0.54,FORK,2.08,UNK,NULL,U
+MCS,OTN-Global,MCS-50934,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.64,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50935,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.7,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50945,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.655,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50946,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.795,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50928,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.785,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50929,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.88,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50931,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.8,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50932,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.765,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50933,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.8,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-16265,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.78,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-16268,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.76,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50937,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.71,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50938,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.72,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50939,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.72,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50940,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.72,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50941,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.72,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50936,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.685,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50942,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.825,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50943,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.735,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50944,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.64,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50947,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.72,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50948,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.78,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50949,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.75,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50950,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.76,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50951,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.825,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50953,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.725,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50954,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.69,FORK,NULL,ADULT,NULL,F
+MCS,OTN-Global,MCS-50925,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.79,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50926,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.84,FORK,NULL,ADULT,NULL,M
+MCS,OTN-Global,MCS-50927,Atlantic salmon,Salmo salar,127186,161996,H,EAST MACHIAS,0.8,FORK,NULL,ADULT,NULL,M
+NSBS,OTN-Global,NSBS-ALI,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.5748,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248829-2017-08-22-11270,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.04,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248828-2017-08-27-11268,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.37,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248827-2017-08-22-11266,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.77,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248826-2017-08-25-11264,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248825-2017-08-22-11262,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.68,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248829-2017-08-22-11269,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.04,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248828-2017-08-27-11267,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.37,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248827-2017-08-22-11265,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.77,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248826-2017-08-25-11263,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248825-2017-08-22-11261,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.68,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Eva,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6,FORK,32.65,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Percy,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.38,FORK,19.5,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Riley,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.58,FORK,29.71,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Meeko,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.3,FORK,16.85,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Sophie,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.53,FORK,25.29,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Brandy,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.4,FORK,22.81,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Lucy,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.62,FORK,27.6,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Xena,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.64,FORK,40.46,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Leia,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.37,FORK,21,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Hayley,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.51,FORK,25,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Blueberry,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,25.12,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Finnigan,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.43,FORK,21.9,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Wryley,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.16,FORK,7.57,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Brianna,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.41,FORK,21.59,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Tika,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,25.12,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Janina,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.49,FORK,25.09,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Lola,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.39,FORK,18.14,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Alyssa,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.56,FORK,27.71,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Ophelia,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.29,FORK,10.52,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Skylar,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.62,FORK,30.88,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Blue Rodeo (Rick Mercer),blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.35,FORK,12,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Keesh,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.35,FORK,15,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Tiny Turner,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.07,FORK,6,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Tail Slap,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.47,FORK,18,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Hey Jude,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.55,FORK,28,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Suzy Q,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.55,FORK,22,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Betty,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.36,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Bonkers,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.28,FORK,11,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Brendal,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.65,FORK,27,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Lucy-14,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,15,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Finnigan-14,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.03,FORK,6,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Big Momma,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.65,FORK,26,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Calypso,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.31,FORK,15,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Katelyn,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.31,FORK,9,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Hooker,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.47,FORK,20,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Casey,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.42,FORK,19,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Helga,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.63,FORK,28,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Nikki,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.31,FORK,12,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Alison,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.41,FORK,20,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-LILY,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.5494,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-MATTEA,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.0541,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-ALICE,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.4097,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-PEYTON,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.524,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-KRISTINA,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.4351,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-GRIFFIN,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.5875,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-TRACEY,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.1049,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-HUGH,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.68275,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-SARAH,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.09982,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-LORENZA,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.5367,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-NICOLE,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.8542,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-TINI,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.651,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-CAROLINA,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6256,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-NAKIA,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.7018,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-SWAANTJE,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.3589,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Salty Dog,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.52,FORK,20,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-ELVIRE,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.4097,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-MOFFAT,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6383,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-110451,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.5367,FORK,NULL,SUB-ADULT,NULL,F
+NSBS,OTN-Global,NSBS-110448,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6891,FORK,NULL,SUB-ADULT,NULL,F
+NSBS,OTN-Global,NSBS-1248833,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.461,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248824,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.549,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248832,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.727,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248830,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.524,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-Hops,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.27,FORK,NULL,JUVENILE,NULL,M
+NSBS,OTN-Global,NSBS-Spruce,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.32,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248838-2017-08-22-11288,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248834-2017-08-27-11280,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.32,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248831-2017-08-22-11274,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.17,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248838-2017-08-22-11287,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.6,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248834-2017-08-27-11279,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.32,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1248831-2017-08-22-11273,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.17,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1250986-2017-08-25-11209,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.65,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1250984-2017-08-25-11205,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.41,FORK,NULL,JUVENILE,NULL,F
+NSBS,OTN-Global,NSBS-1250982-2017-08-25-11201,blue shark,Prionace glauca,105801,160424,W,NW Atlantic,1.395,FORK,NULL,JUVENILE,NULL,F
+WRS,OTN-Global,WRS-1073397,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.204,FORK,0.09,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073398,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.214,FORK,0.083,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073399,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.211,FORK,0.081,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073400,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.186,FORK,0.066,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073401,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.188,FORK,0.075,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073402,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.181,FORK,0.057,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073403,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.188,FORK,0.059,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073404,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.193,FORK,0.076,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073405,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.216,FORK,0.102,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073406,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.202,FORK,0.08,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073407,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.185,FORK,0.059,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073408,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.185,FORK,0.054,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073409,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.192,FORK,0.072,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073410,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.2,FORK,0.069,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073411,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.185,FORK,0.062,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073412,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.181,FORK,0.058,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073413,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.192,FORK,0.075,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073414,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.185,FORK,0.06,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073415,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.188,FORK,0.061,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073416,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.2,FORK,0.079,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073417,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.179,FORK,0.055,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073418,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.182,FORK,0.059,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073419,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.179,FORK,0.059,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073420,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.189,FORK,0.07,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073421,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.182,FORK,0.054,SMOLT,NULL,U
+WRS,OTN-Global,WRS-1073422,Atlantic salmon,Salmo salar,127186,161996,W,"West River, Sheet Harbour",0.19,FORK,0.061,SMOLT,NULL,U
+WRS,OTN-Global,WRS-29637,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.199,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29638,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.212,FORK,0.096,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29639,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.236,FORK,0.112,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29640,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.204,FORK,0.092,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29641,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.184,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29642,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.23,FORK,0.11,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29643,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.176,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29644,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.219,FORK,0.096,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29645,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.205,FORK,0.086,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-10550,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.222,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10551,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.196,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10552,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.194,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10553,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.186,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10554,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.205,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10555,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.218,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-37040,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.172,FORK,0.044,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37041,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.168,FORK,0.036,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37042,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.155,FORK,0.032,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37043,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.165,FORK,0.042,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37044,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.16,FORK,0.036,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29646,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.174,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29647,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.19,FORK,0.066,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29648,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.203,FORK,0.076,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29649,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.174,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29650,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.178,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29651,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.186,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29652,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.192,FORK,0.072,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29653,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.184,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29654,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.197,FORK,0.066,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29655,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.206,FORK,0.088,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29656,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.192,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29657,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.211,FORK,0.1,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29659,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.179,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29660,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.198,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29661,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.195,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-29662,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.237,FORK,0.108,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36701,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.203,FORK,0.08,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36702,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.179,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36703,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.215,FORK,0.092,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36704,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.178,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36705,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.184,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36706,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.17,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36707,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.189,FORK,0.064,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36708,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.172,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36709,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.19,FORK,0.07,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36710,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.185,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36711,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.186,FORK,0.066,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36712,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.201,FORK,0.09,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36713,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.193,FORK,0.074,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36714,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.17,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36715,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.183,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36716,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.181,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36717,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.174,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36718,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.188,FORK,0.07,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36719,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.207,FORK,0.09,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36720,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.175,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36721,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.173,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36722,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.199,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36723,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.198,FORK,0.076,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36724,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.225,FORK,0.1,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36725,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.187,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36726,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.194,FORK,0.072,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36727,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.175,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36728,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.174,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36729,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.18,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36730,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.181,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36731,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.191,FORK,0.07,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36732,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.178,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36733,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.174,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36734,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.182,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36735,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.201,FORK,0.076,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36736,Atlantic salmon,Salmo salar,127186,161996,W,Gold River,0.209,FORK,0.088,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36737,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.216,FORK,0.092,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36738,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.195,FORK,0.08,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36739,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.198,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36740,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.185,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36861,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.178,FORK,0.054,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36862,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.186,FORK,0.064,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36863,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.214,FORK,0.116,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36864,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.185,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36865,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.192,FORK,0.064,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36866,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.186,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36867,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.2,FORK,0.084,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36868,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.189,FORK,0.064,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36869,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.18,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36870,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.189,FORK,0.062,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36871,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.21,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36872,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.211,FORK,0.096,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36873,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.177,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36874,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.211,FORK,0.086,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36875,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.205,FORK,0.08,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36876,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.197,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36877,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.227,FORK,0.108,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36878,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.18,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36879,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.195,FORK,0.074,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36880,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.201,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36881,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.199,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36882,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.175,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36883,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.188,FORK,0.062,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36884,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.203,FORK,0.088,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36885,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.183,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36886,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.174,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36887,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.182,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36888,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.175,FORK,0.056,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36889,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.226,FORK,0.124,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36890,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.189,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36891,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.192,FORK,0.068,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36892,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.187,FORK,0.063,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36893,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.25,FORK,0.152,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36894,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.207,FORK,0.084,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36895,Atlantic salmon,Salmo salar,127186,161996,W,West River (Sheet Harour),0.175,FORK,0.054,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36896,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.174,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36897,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.165,FORK,0.042,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36898,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.163,FORK,0.044,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36899,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.163,FORK,0.042,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36900,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.167,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36901,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.162,FORK,0.038,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36902,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.159,FORK,0.038,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36903,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.174,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36904,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.163,FORK,0.036,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36905,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.172,FORK,0.044,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36906,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.175,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36907,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.159,FORK,0.034,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36908,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.172,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36909,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.182,FORK,0.06,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36910,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.172,FORK,0.046,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36911,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.168,FORK,0.036,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-36912,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.177,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37039,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.17,FORK,0.046,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37045,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.162,FORK,0.038,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37046,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.161,FORK,0.042,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37047,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.165,FORK,0.042,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37048,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.168,FORK,0.044,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37049,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.173,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37050,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.181,FORK,0.052,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37051,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.178,FORK,0.058,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37052,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.183,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37053,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.166,FORK,0.04,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37256,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.181,FORK,0.048,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37257,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.179,FORK,0.046,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37258,Atlantic salmon,Salmo salar,127186,161996,W,St. Mary's River,0.16,FORK,0.04,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37284,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.195,FORK,0.07,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37285,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.175,FORK,0.054,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37286,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.19,FORK,0.07,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37287,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.209,FORK,0.078,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-37288,Atlantic salmon,Salmo salar,127186,161996,W,LaHave River,0.178,FORK,0.05,JUVENILE,NULL,U
+WRS,OTN-Global,WRS-10556,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.21,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10557,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.201,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10558,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.207,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10559,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.204,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10560,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.192,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10561,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.214,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10562,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.211,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10563,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.202,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10564,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.202,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10565,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.204,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10566,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.201,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10567,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.202,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10568,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.197,FORK,NULL,UNK,NULL,U
+WRS,OTN-Global,WRS-10569,Atlantic salmon,Salmo salar,127186,161996,W,WRSH,0.184,FORK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-23,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-21,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-20,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-19,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-18,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-17,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-25,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-24,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-22,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-26,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-29,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-28,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-30,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-16,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-15,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-33,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-32,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-31,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-27,leervis,Lichia amia,126810,168769,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-3,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-2,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-1,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-14,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-13,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-12,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-11,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-10,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-9,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-4,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-8,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-7,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-6,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+GEFT,OTN-Global,GEFT-5,spotted grunter,Pomadasys commersonnii,218563,630243,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200784,white shark,Carcharodon carcharias,105838,159903,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200783,white shark,Carcharodon carcharias,105838,159903,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-37059,white shark,Carcharodon carcharias,105838,159903,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200428,smooth hound shark,Mustelus mustelus,105822,160242,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32559,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32557,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1194461,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1194465,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32553,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1194459,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32558,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32522,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32560,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1194464,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34080,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-2013-22,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1168537,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200778,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200776,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200775,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34097,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34095,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34094,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-340802,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200779,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34087,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34085,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34096,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34086,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34084,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34083,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34079,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1042222,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32555,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1194466,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-32556,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-340801,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34070,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-1200777,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34076,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34077,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+SSST,OTN-Global,SSST-34078,sevengill shark,Notorynchus cepedianus,217628,159829,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217442,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217443,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217445,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217444,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217441,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-26,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-27,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-28,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-29,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-30,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-5-14,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-4-14,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1131560,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1131557,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1131558,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1131556,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1131559,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1128772,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1128771,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1128773,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130603,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130604,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130601,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130602,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130606,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1130605,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1123206,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1123205,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1123204,Zambezi shark,Carcharhinus leucas,105792,160275,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217449,tiger shark,Galeocerdo cuvier,105799,160189,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217450,tiger shark,Galeocerdo cuvier,105799,160189,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217447,tiger shark,Galeocerdo cuvier,105799,160189,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217446,tiger shark,Galeocerdo cuvier,105799,160189,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1217448,tiger shark,Galeocerdo cuvier,105799,160189,W,UNK,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-23,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-24,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2015-25,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-0-14,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-1-14,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-2-14,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+POZS,OTN-Global,POZS-3-14,tiger shark,Galeocerdo cuvier,105799,160189,W,UNKNOWN,NULL,UNK,NULL,UNK,NULL,U
+CCS,nep,CCS-42471,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.12,FORK,0.01901,JUVENILE,1,U
+CCS,nep,CCS-42470,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.123,FORK,0.02295,JUVENILE,1,U
+CCS,nep,CCS-42469,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.0145,JUVENILE,1,U
+CCS,nep,CCS-42468,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.115,FORK,0.01801,JUVENILE,1,U
+CCS,nep,CCS-42467,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.106,FORK,0.01368,JUVENILE,1,U
+CCS,nep,CCS-42466,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01477,JUVENILE,1,U
+CCS,nep,CCS-42465,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01436,JUVENILE,1,U
+CCS,nep,CCS-42464,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01456,JUVENILE,1,U
+CCS,nep,CCS-42463,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01482,JUVENILE,1,U
+CCS,nep,CCS-42462,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.0128,JUVENILE,1,U
+CCS,nep,CCS-42461,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.112,FORK,0.01651,JUVENILE,1,U
+CCS,nep,CCS-42460,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.121,FORK,0.02239,JUVENILE,1,U
+CCS,nep,CCS-42459,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01447,JUVENILE,1,U
+CCS,nep,CCS-42458,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.123,FORK,0.02206,JUVENILE,1,U
+CCS,nep,CCS-42457,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.01403,JUVENILE,1,U
+CCS,nep,CCS-42456,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.01698,JUVENILE,1,U
+CCS,nep,CCS-42455,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.01465,JUVENILE,1,U
+CCS,nep,CCS-42454,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01538,JUVENILE,1,U
+CCS,nep,CCS-42453,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.119,FORK,0.02047,JUVENILE,1,U
+CCS,nep,CCS-42444,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.109,FORK,NULL,JUVENILE,1,U
+CCS,nep,CCS-42443,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.112,FORK,0.01665,JUVENILE,1,U
+CCS,nep,CCS-42442,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.119,FORK,0.01823,JUVENILE,1,U
+CCS,nep,CCS-42441,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01215,JUVENILE,1,U
+CCS,nep,CCS-42440,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.119,FORK,0.01912,JUVENILE,1,U
+CCS,nep,CCS-42439,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01454,JUVENILE,1,U
+CCS,nep,CCS-42438,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01264,JUVENILE,1,U
+CCS,nep,CCS-42437,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01225,JUVENILE,1,U
+CCS,nep,CCS-42436,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01521,JUVENILE,1,U
+CCS,nep,CCS-42435,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.0148,JUVENILE,1,U
+CCS,nep,CCS-42434,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.01637,JUVENILE,1,U
+CCS,nep,CCS-42433,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.12,FORK,0.01903,JUVENILE,1,U
+CCS,nep,CCS-42432,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01707,JUVENILE,1,U
+CCS,nep,CCS-42431,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01454,JUVENILE,1,U
+CCS,nep,CCS-42430,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.017,JUVENILE,1,U
+CCS,nep,CCS-42429,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01808,JUVENILE,1,U
+CCS,nep,CCS-42428,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.0159,JUVENILE,1,U
+CCS,nep,CCS-42427,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.121,FORK,0.02104,JUVENILE,1,U
+CCS,nep,CCS-42426,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01843,JUVENILE,1,U
+CCS,nep,CCS-42425,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01547,JUVENILE,1,U
+CCS,nep,CCS-42424,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.118,FORK,0.0218,JUVENILE,1,U
+CCS,nep,CCS-42423,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01467,JUVENILE,1,U
+CCS,nep,CCS-42422,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.0142,JUVENILE,1,U
+CCS,nep,CCS-42421,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.109,FORK,0.01226,JUVENILE,1,U
+CCS,nep,CCS-42420,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01495,JUVENILE,1,U
+CCS,nep,CCS-42419,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01551,JUVENILE,1,U
+CCS,nep,CCS-42418,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.104,FORK,0.01264,JUVENILE,1,U
+CCS,nep,CCS-42417,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.11,FORK,0.01489,JUVENILE,1,U
+CCS,nep,CCS-42416,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01321,JUVENILE,1,U
+CCS,nep,CCS-42415,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01612,JUVENILE,1,U
+CCS,nep,CCS-42414,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01238,JUVENILE,1,U
+CCS,nep,CCS-42413,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.112,FORK,0.0164,JUVENILE,1,U
+CCS,nep,CCS-42412,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.104,FORK,0.01225,JUVENILE,1,U
+CCS,nep,CCS-42485,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.106,FORK,0.014,JUVENILE,1,U
+CCS,nep,CCS-42411,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.11,FORK,NULL,JUVENILE,1,U
+CCS,nep,CCS-42410,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.115,FORK,0.01797,JUVENILE,1,U
+CCS,nep,CCS-42409,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.121,FORK,0.02009,JUVENILE,1,U
+CCS,nep,CCS-42408,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01805,JUVENILE,1,U
+CCS,nep,CCS-42407,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.148,FORK,0.01985,JUVENILE,1,U
+CCS,nep,CCS-42406,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.104,FORK,0.01267,JUVENILE,1,U
+CCS,nep,CCS-42405,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,NULL,FORK,0.0161,JUVENILE,1,U
+CCS,nep,CCS-42404,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.106,FORK,0.0138,JUVENILE,1,U
+CCS,nep,CCS-42403,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01924,JUVENILE,1,U
+CCS,nep,CCS-42402,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.115,FORK,0.01802,JUVENILE,1,U
+CCS,nep,CCS-42401,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.112,FORK,0.01552,JUVENILE,1,U
+CCS,nep,CCS-42400,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.12,FORK,0.01935,JUVENILE,1,U
+CCS,nep,CCS-42399,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.01305,JUVENILE,1,U
+CCS,nep,CCS-42398,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.116,FORK,0.01909,JUVENILE,1,U
+CCS,nep,CCS-42397,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.106,FORK,0.01277,JUVENILE,1,U
+CCS,nep,CCS-42396,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.118,FORK,0.01845,JUVENILE,1,U
+CCS,nep,CCS-42395,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01363,JUVENILE,1,U
+CCS,nep,CCS-42394,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.01806,JUVENILE,1,U
+CCS,nep,CCS-42393,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.123,FORK,0.01905,JUVENILE,1,U
+CCS,nep,CCS-42392,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.01248,JUVENILE,1,U
+CCS,nep,CCS-42491,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01395,JUVENILE,1,U
+CCS,nep,CCS-42490,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.0189,JUVENILE,1,U
+CCS,nep,CCS-42489,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.0149,JUVENILE,1,U
+CCS,nep,CCS-42484,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01383,JUVENILE,1,U
+CCS,nep,CCS-42483,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.112,FORK,0.01524,JUVENILE,1,U
+CCS,nep,CCS-42482,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.11,FORK,0.0135,JUVENILE,1,U
+CCS,nep,CCS-42481,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.016,JUVENILE,1,U
+CCS,nep,CCS-42480,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.124,FORK,0.0234,JUVENILE,1,U
+CCS,nep,CCS-42479,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.121,FORK,0.01733,JUVENILE,1,U
+CCS,nep,CCS-42478,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01753,JUVENILE,1,U
+CCS,nep,CCS-42477,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.0179,JUVENILE,1,U
+CCS,nep,CCS-42488,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.11,FORK,0.01496,JUVENILE,1,U
+CCS,nep,CCS-42487,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.0191,JUVENILE,1,U
+CCS,nep,CCS-42486,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.114,FORK,0.01628,JUVENILE,1,U
+CCS,nep,CCS-42452,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01482,JUVENILE,1,U
+CCS,nep,CCS-42451,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.118,FORK,0.01863,JUVENILE,1,U
+CCS,nep,CCS-42450,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.109,FORK,0.01494,JUVENILE,1,U
+CCS,nep,CCS-42449,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.105,FORK,0.01265,JUVENILE,1,U
+CCS,nep,CCS-42448,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.113,FORK,0.01677,JUVENILE,1,U
+CCS,nep,CCS-42447,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.111,FORK,0.01543,JUVENILE,1,U
+CCS,nep,CCS-42446,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.118,FORK,0.01795,JUVENILE,1,U
+CCS,nep,CCS-42445,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01338,JUVENILE,1,U
+CCS,nep,CCS-42476,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.108,FORK,0.01313,JUVENILE,1,U
+CCS,nep,CCS-42475,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.109,FORK,0.01428,JUVENILE,1,U
+CCS,nep,CCS-42474,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01401,JUVENILE,1,U
+CCS,nep,CCS-42473,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.107,FORK,0.01274,JUVENILE,1,U
+CCS,nep,CCS-42472,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,CHILKO,0.117,FORK,0.01777,JUVENILE,1,U
+CCSALMON,nep,CCSALMON-1274647-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.21,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274646-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.166,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274645-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.166,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274716-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.179,FORK,0.0647,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274715-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.184,FORK,0.076,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274714-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.159,FORK,0.0422,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274713-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.174,FORK,0.0663,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274712-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.156,FORK,0.0439,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274644-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.15,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274643-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.158,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274642-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.195,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274720-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.151,FORK,0.037,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274719-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.186,FORK,0.0746,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274721-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.21,FORK,0.0845,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274717-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.201,FORK,0.083,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274711-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.156,FORK,0.0408,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274710-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.163,FORK,0.0481,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274709-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.204,FORK,0.0944,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274708-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.209,FORK,0.0973,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274700-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.165,FORK,0.0501,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274699-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.166,FORK,0.048,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274698-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.158,FORK,0.0435,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274697-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.238,FORK,0.1014,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274696-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.206,FORK,0.0911,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274695-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.221,FORK,0.101,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274694-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.171,FORK,0.0583,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274693-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.187,FORK,0.0765,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274692-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.177,FORK,0.0633,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274691-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.153,FORK,0.0347,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274690-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.156,FORK,0.0427,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274689-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.161,FORK,0.0455,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274688-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.218,FORK,0.1033,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274687-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.168,FORK,0.0547,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274686-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.178,FORK,0.0671,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274685-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.162,FORK,0.0467,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274684-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.151,FORK,0.0368,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274683-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.184,FORK,0.0802,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274682-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.171,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274681-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.151,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274680-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.171,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274679-2017-09-14,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.151,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274678-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.157,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274677-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.157,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274676-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.167,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274675-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.163,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274674-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.143,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274673-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.174,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274672-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.168,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274671-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.152,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274670-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.169,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274669-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.157,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274668-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.179,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274667-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.189,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274666-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.217,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274665-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.158,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274664-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.177,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274663-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.161,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274662-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,U,UNKNOWN,0.156,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274661-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.19,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274660-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.2,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274659-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.211,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274658-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.204,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274657-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.164,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274656-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.209,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274655-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.165,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274654-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,NULL,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274653-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.182,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274652-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.149,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274707-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.173,FORK,0.0638,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274706-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.163,FORK,0.0457,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274705-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.157,FORK,0.0416,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274704-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.206,FORK,0.0901,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274703-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.201,FORK,0.0879,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274702-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.161,FORK,0.047,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274701-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.156,FORK,0.0404,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274651-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,UNKNOWN,0.176,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274718-2017-09-15,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.165,FORK,0.0496,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274650-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,U,UNKNOWN,0.144,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274649-2017-09-13,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.164,FORK,NULL,JUVENILE,NULL,U
+CCSALMON,nep,CCSALMON-1274648-2017-09-12,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,W,UNKNOWN,0.189,FORK,NULL,JUVENILE,NULL,U
+ESS,nep,ESS-18951,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.149,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18950,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.135,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18949,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.148,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18948,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.157,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18947,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.148,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18946,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.146,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18945,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.146,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18944,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.143,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18943,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.138,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18942,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.152,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18941,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.143,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18940,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.133,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18939,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.142,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18938,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.156,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18937,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.134,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18936,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.153,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18935,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.141,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18953,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.142,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18952,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.152,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18931,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.144,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18932,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.153,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18933,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.151,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18934,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.15,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18924,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.148,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18925,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.138,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18926,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.15,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18927,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.133,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18928,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.153,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18929,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.154,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18930,Dungeness crab,Cancer magister,452271,98675,W,UNK,0.139,CARAPACE WIDTH,NULL,UNK,NULL,M
+ESS,nep,ESS-18967,English sole,Parophrys vetulus,254393,172921,W,UNK,0.29,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18966,English sole,Parophrys vetulus,254393,172921,W,UNK,0.299,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18965,English sole,Parophrys vetulus,254393,172921,W,UNK,0.296,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18964,English sole,Parophrys vetulus,254393,172921,W,UNK,0.319,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18963,English sole,Parophrys vetulus,254393,172921,W,UNK,0.274,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18962,English sole,Parophrys vetulus,254393,172921,W,UNK,0.3,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18961,English sole,Parophrys vetulus,254393,172921,W,UNK,0.302,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18960,English sole,Parophrys vetulus,254393,172921,W,UNK,0.306,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18959,English sole,Parophrys vetulus,254393,172921,W,UNK,0.3,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18958,English sole,Parophrys vetulus,254393,172921,W,UNK,0.325,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18957,English sole,Parophrys vetulus,254393,172921,W,UNK,0.308,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18956,English sole,Parophrys vetulus,254393,172921,W,UNK,0.271,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18955,English sole,Parophrys vetulus,254393,172921,W,UNK,0.35,TL,NULL,UNK,NULL,U
+ESS,nep,ESS-18954,English sole,Parophrys vetulus,254393,172921,W,UNK,0.319,TL,NULL,UNK,NULL,U
+KRS,nep,KRS-34310_35470,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.218,FORK,0.11433,JUVENILE,14,U
+KRS,nep,KRS-34300_35460,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.218,FORK,0.10398,JUVENILE,14,U
+KRS,nep,KRS-34296_35456,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.209,FORK,0.08138,JUVENILE,14,U
+KRS,nep,KRS-34295_35455,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.209,FORK,0.0986,JUVENILE,14,U
+KRS,nep,KRS-34294_35454,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.209,FORK,0.08548,JUVENILE,14,U
+KRS,nep,KRS-34293_35453,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.203,FORK,0.0837,JUVENILE,14,U
+KRS,nep,KRS-34291_35451,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.198,FORK,0.07183,JUVENILE,14,U
+KRS,nep,KRS-34290_35450,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.207,FORK,0.079,JUVENILE,14,U
+KRS,nep,KRS-34286_35446,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.206,FORK,0.08596,JUVENILE,14,U
+KRS,nep,KRS-34285_35445,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.226,FORK,0.10693,JUVENILE,14,U
+KRS,nep,KRS-34284_35444,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.196,FORK,0.06959,JUVENILE,14,U
+KRS,nep,KRS-34283_35443,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.202,FORK,0.07999,JUVENILE,14,U
+KRS,nep,KRS-34282_35442,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.23,FORK,0.12385,JUVENILE,14,U
+KRS,nep,KRS-34281_35441,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.214,FORK,0.09552,JUVENILE,14,U
+KRS,nep,KRS-34280_35440,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.199,FORK,0.07435,JUVENILE,14,U
+KRS,nep,KRS-34279_35439,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.183,FORK,0.06127,JUVENILE,14,U
+KRS,nep,KRS-34275_35435,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.21,FORK,0.09897,JUVENILE,14,U
+KRS,nep,KRS-34297_35457,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.203,FORK,0.07792,JUVENILE,14,U
+KRS,nep,KRS-34309_35469,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.191,FORK,0.06741,JUVENILE,14,U
+KRS,nep,KRS-34292_35452,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.202,FORK,0.06965,JUVENILE,14,U
+KRS,nep,KRS-34299_35459,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.21,FORK,0.0877,JUVENILE,14,U
+KRS,nep,KRS-34298_35458,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.197,FORK,0.06677,JUVENILE,14,U
+KRS,nep,KRS-34273_35433,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.224,FORK,0.09917,JUVENILE,14,U
+KRS,nep,KRS-34313_35473,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.192,FORK,0.07338,JUVENILE,14,U
+KRS,nep,KRS-34308_35468,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.208,FORK,0.08448,JUVENILE,14,U
+KRS,nep,KRS-34307_35467,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.219,FORK,0.10063,JUVENILE,14,U
+KRS,nep,KRS-34306_35466,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.196,FORK,0.07256,JUVENILE,14,U
+KRS,nep,KRS-34305_35465,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.217,FORK,0.09553,JUVENILE,14,U
+KRS,nep,KRS-34304_35464,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.205,FORK,0.08563,JUVENILE,14,U
+KRS,nep,KRS-34303_35463,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.21,FORK,0.08127,JUVENILE,14,U
+KRS,nep,KRS-34302_35462,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.236,FORK,0.1667,JUVENILE,14,U
+KRS,nep,KRS-34301_35461,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.193,FORK,0.06602,JUVENILE,14,U
+KRS,nep,KRS-34315_35475,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.206,FORK,0.07685,JUVENILE,14,U
+KRS,nep,KRS-34314_35474,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.195,FORK,0.06787,JUVENILE,14,U
+KRS,nep,KRS-34312_35472,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.19,FORK,0.07129,JUVENILE,14,U
+KRS,nep,KRS-34311_35471,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.206,FORK,0.09054,JUVENILE,14,U
+KRS,nep,KRS-34274_35434,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.208,FORK,0.08092,JUVENILE,14,U
+KRS,nep,KRS-34322_35482,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.193,FORK,0.07221,JUVENILE,14,U
+KRS,nep,KRS-34321_35481,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.186,FORK,0.0655,JUVENILE,14,U
+KRS,nep,KRS-34320_35480,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.204,FORK,0.08946,JUVENILE,14,U
+KRS,nep,KRS-34319_35479,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.215,FORK,0.0876,JUVENILE,14,U
+KRS,nep,KRS-34318_35478,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.204,FORK,0.07683,JUVENILE,14,U
+KRS,nep,KRS-34317_35477,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.192,FORK,0.06902,JUVENILE,14,U
+KRS,nep,KRS-34316_35476,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.208,FORK,0.0772,JUVENILE,14,U
+KRS,nep,KRS-34289_35449,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.211,FORK,0.08411,JUVENILE,14,U
+KRS,nep,KRS-34288_35448,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.225,FORK,0.12157,JUVENILE,14,U
+KRS,nep,KRS-34287_35447,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.205,FORK,0.08514,JUVENILE,14,U
+KRS,nep,KRS-34278_35438,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.224,FORK,0.11557,JUVENILE,14,U
+KRS,nep,KRS-34277_35437,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.209,FORK,0.08746,JUVENILE,14,U
+KRS,nep,KRS-34276_35436,Steelhead salmon,Oncorhynchus mykiss,127185,161989,H,SEYMOUR RIVER,0.207,FORK,0.08181,JUVENILE,14,U
+MACFL,nep,MACFL-14290,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.162,FORK,0.0505,UNK,NULL,U
+MACFL,nep,MACFL-14291,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0425,UNK,NULL,U
+MACFL,nep,MACFL-14292,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0441,UNK,NULL,U
+MACFL,nep,MACFL-14293,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0336,UNK,NULL,U
+MACFL,nep,MACFL-14294,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0371,UNK,NULL,U
+MACFL,nep,MACFL-14295,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0341,UNK,NULL,U
+MACFL,nep,MACFL-14296,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0474,UNK,NULL,U
+MACFL,nep,MACFL-14297,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0462,UNK,NULL,U
+MACFL,nep,MACFL-14298,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0382,UNK,NULL,U
+MACFL,nep,MACFL-14299,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0392,UNK,NULL,U
+MACFL,nep,MACFL-14300,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0328,UNK,NULL,U
+MACFL,nep,MACFL-14301,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0366,UNK,NULL,U
+MACFL,nep,MACFL-14302,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0427,UNK,NULL,U
+MACFL,nep,MACFL-14303,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0403,UNK,NULL,U
+MACFL,nep,MACFL-14304,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0328,UNK,NULL,U
+MACFL,nep,MACFL-14305,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.041,UNK,NULL,U
+MACFL,nep,MACFL-14306,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0397,UNK,NULL,U
+MACFL,nep,MACFL-14307,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0505,UNK,NULL,U
+MACFL,nep,MACFL-14308,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0416,UNK,NULL,U
+MACFL,nep,MACFL-14309,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0411,UNK,NULL,U
+MACFL,nep,MACFL-14310,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0348,UNK,NULL,U
+MACFL,nep,MACFL-14311,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0379,UNK,NULL,U
+MACFL,nep,MACFL-14312,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0376,UNK,NULL,U
+MACFL,nep,MACFL-14313,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0331,UNK,NULL,U
+MACFL,nep,MACFL-14314,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0422,UNK,NULL,U
+MACFL,nep,MACFL-14315,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0341,UNK,NULL,U
+MACFL,nep,MACFL-14316,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0327,UNK,NULL,U
+MACFL,nep,MACFL-14317,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.172,FORK,0.0593,UNK,NULL,U
+MACFL,nep,MACFL-14318,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.156,FORK,0.0409,UNK,NULL,U
+MACFL,nep,MACFL-14319,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0401,UNK,NULL,U
+MACFL,nep,MACFL-14320,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0342,UNK,NULL,U
+MACFL,nep,MACFL-14321,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0332,UNK,NULL,U
+MACFL,nep,MACFL-14322,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.162,FORK,0.051,UNK,NULL,U
+MACFL,nep,MACFL-14323,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0376,UNK,NULL,U
+MACFL,nep,MACFL-14324,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0328,UNK,NULL,U
+MACFL,nep,MACFL-14325,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0392,UNK,NULL,U
+MACFL,nep,MACFL-14326,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.041,UNK,NULL,U
+MACFL,nep,MACFL-14327,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0418,UNK,NULL,U
+MACFL,nep,MACFL-14328,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0381,UNK,NULL,U
+MACFL,nep,MACFL-14329,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0401,UNK,NULL,U
+MACFL,nep,MACFL-14330,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0325,UNK,NULL,U
+MACFL,nep,MACFL-14331,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.0332,UNK,NULL,U
+MACFL,nep,MACFL-14332,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0425,UNK,NULL,U
+MACFL,nep,MACFL-14333,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.0352,UNK,NULL,U
+MACFL,nep,MACFL-14334,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.139,FORK,0.031,UNK,NULL,U
+MACFL,nep,MACFL-14335,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0349,UNK,NULL,U
+MACFL,nep,MACFL-14336,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0335,UNK,NULL,U
+MACFL,nep,MACFL-14337,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0362,UNK,NULL,U
+MACFL,nep,MACFL-14338,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0308,UNK,NULL,U
+MACFL,nep,MACFL-14339,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0407,UNK,NULL,U
+MACFL,nep,MACFL-14340,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0344,UNK,NULL,U
+MACFL,nep,MACFL-14341,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0372,UNK,NULL,U
+MACFL,nep,MACFL-14342,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0295,UNK,NULL,U
+MACFL,nep,MACFL-14343,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0522,UNK,NULL,U
+MACFL,nep,MACFL-14344,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.161,FORK,0.0541,UNK,NULL,U
+MACFL,nep,MACFL-14345,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0499,UNK,NULL,U
+MACFL,nep,MACFL-14346,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0366,UNK,NULL,U
+MACFL,nep,MACFL-14347,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.17,FORK,0.0591,UNK,NULL,U
+MACFL,nep,MACFL-14348,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.174,FORK,0.0659,UNK,NULL,U
+MACFL,nep,MACFL-14349,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0376,UNK,NULL,U
+MACFL,nep,MACFL-14350,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.156,FORK,0.045,UNK,NULL,U
+MACFL,nep,MACFL-14351,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0421,UNK,NULL,U
+MACFL,nep,MACFL-14352,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0319,UNK,NULL,U
+MACFL,nep,MACFL-14353,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.156,FORK,0.0454,UNK,NULL,U
+MACFL,nep,MACFL-14354,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0306,UNK,NULL,U
+MACFL,nep,MACFL-14355,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.0335,UNK,NULL,U
+MACFL,nep,MACFL-14356,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0451,UNK,NULL,U
+MACFL,nep,MACFL-14357,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0316,UNK,NULL,U
+MACFL,nep,MACFL-14358,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0356,UNK,NULL,U
+MACFL,nep,MACFL-14359,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0477,UNK,NULL,U
+MACFL,nep,MACFL-14360,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.154,FORK,0.0422,UNK,NULL,U
+MACFL,nep,MACFL-14361,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.033,UNK,NULL,U
+MACFL,nep,MACFL-14362,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.031,UNK,NULL,U
+MACFL,nep,MACFL-14363,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.163,FORK,0.0485,UNK,NULL,U
+MACFL,nep,MACFL-14364,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.154,FORK,0.0414,UNK,NULL,U
+MACFL,nep,MACFL-14365,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0375,UNK,NULL,U
+MACFL,nep,MACFL-14366,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0419,UNK,NULL,U
+MACFL,nep,MACFL-14367,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0388,UNK,NULL,U
+MACFL,nep,MACFL-14368,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0313,UNK,NULL,U
+MACFL,nep,MACFL-14369,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0335,UNK,NULL,U
+MACFL,nep,MACFL-14370,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0328,UNK,NULL,U
+MACFL,nep,MACFL-14371,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0343,UNK,NULL,U
+MACFL,nep,MACFL-14372,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0348,UNK,NULL,U
+MACFL,nep,MACFL-14373,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0426,UNK,NULL,U
+MACFL,nep,MACFL-14374,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.169,FORK,0.052,UNK,NULL,U
+MACFL,nep,MACFL-14375,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0355,UNK,NULL,U
+MACFL,nep,MACFL-14376,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0321,UNK,NULL,U
+MACFL,nep,MACFL-14377,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0301,UNK,NULL,U
+MACFL,nep,MACFL-14378,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0381,UNK,NULL,U
+MACFL,nep,MACFL-14379,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0375,UNK,NULL,U
+MACFL,nep,MACFL-14380,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0305,UNK,NULL,U
+MACFL,nep,MACFL-14381,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.173,FORK,0.0609,UNK,NULL,U
+MACFL,nep,MACFL-14382,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0558,UNK,NULL,U
+MACFL,nep,MACFL-14383,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.139,FORK,0.0303,UNK,NULL,U
+MACFL,nep,MACFL-14384,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.171,FORK,0.0659,UNK,NULL,U
+MACFL,nep,MACFL-14385,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0389,UNK,NULL,U
+MACFL,nep,MACFL-14386,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0357,UNK,NULL,U
+MACFL,nep,MACFL-14387,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0393,UNK,NULL,U
+MACFL,nep,MACFL-14388,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0321,UNK,NULL,U
+MACFL,nep,MACFL-14389,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0441,UNK,NULL,U
+MACFL,nep,MACFL-14390,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0438,UNK,NULL,U
+MACFL,nep,MACFL-14391,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0339,UNK,NULL,U
+MACFL,nep,MACFL-14392,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.163,FORK,0.0521,UNK,NULL,U
+MACFL,nep,MACFL-14393,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.156,FORK,0.046,UNK,NULL,U
+MACFL,nep,MACFL-14394,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0379,UNK,NULL,U
+MACFL,nep,MACFL-14395,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.0328,UNK,NULL,U
+MACFL,nep,MACFL-14396,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0381,UNK,NULL,U
+MACFL,nep,MACFL-14397,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0471,UNK,NULL,U
+MACFL,nep,MACFL-14398,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0408,UNK,NULL,U
+MACFL,nep,MACFL-14399,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0331,UNK,NULL,U
+MACFL,nep,MACFL-14400,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.031,UNK,NULL,U
+MACFL,nep,MACFL-14401,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.038,UNK,NULL,U
+MACFL,nep,MACFL-14402,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0389,UNK,NULL,U
+MACFL,nep,MACFL-14403,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0324,UNK,NULL,U
+MACFL,nep,MACFL-14404,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.139,FORK,0.0315,UNK,NULL,U
+MACFL,nep,MACFL-14405,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0468,UNK,NULL,U
+MACFL,nep,MACFL-14406,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0535,UNK,NULL,U
+MACFL,nep,MACFL-14407,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0397,UNK,NULL,U
+MACFL,nep,MACFL-14408,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.039,UNK,NULL,U
+MACFL,nep,MACFL-14409,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.167,FORK,0.0544,UNK,NULL,U
+MACFL,nep,MACFL-14410,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0345,UNK,NULL,U
+MACFL,nep,MACFL-14411,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0341,UNK,NULL,U
+MACFL,nep,MACFL-14412,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.161,FORK,0.0476,UNK,NULL,U
+MACFL,nep,MACFL-14413,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0314,UNK,NULL,U
+MACFL,nep,MACFL-14414,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0382,UNK,NULL,U
+MACFL,nep,MACFL-14415,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0305,UNK,NULL,U
+MACFL,nep,MACFL-14416,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0333,UNK,NULL,U
+MACFL,nep,MACFL-14417,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0392,UNK,NULL,U
+MACFL,nep,MACFL-14418,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0347,UNK,NULL,U
+MACFL,nep,MACFL-14419,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0317,UNK,NULL,U
+MACFL,nep,MACFL-14420,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0405,UNK,NULL,U
+MACFL,nep,MACFL-14421,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0445,UNK,NULL,U
+MACFL,nep,MACFL-14422,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.039,UNK,NULL,U
+MACFL,nep,MACFL-14423,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0365,UNK,NULL,U
+MACFL,nep,MACFL-14424,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0395,UNK,NULL,U
+MACFL,nep,MACFL-14425,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0311,UNK,NULL,U
+MACFL,nep,MACFL-14426,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0365,UNK,NULL,U
+MACFL,nep,MACFL-14427,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0381,UNK,NULL,U
+MACFL,nep,MACFL-14428,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.166,FORK,0.0541,UNK,NULL,U
+MACFL,nep,MACFL-14429,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.143,FORK,0.033,UNK,NULL,U
+MACFL,nep,MACFL-14430,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.174,FORK,0.0639,UNK,NULL,U
+MACFL,nep,MACFL-14431,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0419,UNK,NULL,U
+MACFL,nep,MACFL-14432,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.047,UNK,NULL,U
+MACFL,nep,MACFL-14433,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0351,UNK,NULL,U
+MACFL,nep,MACFL-14434,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0408,UNK,NULL,U
+MACFL,nep,MACFL-14435,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.169,FORK,0.0519,UNK,NULL,U
+MACFL,nep,MACFL-14436,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0325,UNK,NULL,U
+MACFL,nep,MACFL-14437,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.163,FORK,0.0454,UNK,NULL,U
+MACFL,nep,MACFL-14438,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0325,UNK,NULL,U
+MACFL,nep,MACFL-14439,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0446,UNK,NULL,U
+MACFL,nep,MACFL-14440,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.032,UNK,NULL,U
+MACFL,nep,MACFL-14441,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0364,UNK,NULL,U
+MACFL,nep,MACFL-14442,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.169,FORK,0.0494,UNK,NULL,U
+MACFL,nep,MACFL-14443,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0433,UNK,NULL,U
+MACFL,nep,MACFL-14444,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0309,UNK,NULL,U
+MACFL,nep,MACFL-14445,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0283,UNK,NULL,U
+MACFL,nep,MACFL-14446,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.154,FORK,0.0377,UNK,NULL,U
+MACFL,nep,MACFL-14447,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0347,UNK,NULL,U
+MACFL,nep,MACFL-14448,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0432,UNK,NULL,U
+MACFL,nep,MACFL-14449,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0395,UNK,NULL,U
+MACFL,nep,MACFL-14450,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0294,UNK,NULL,U
+MACFL,nep,MACFL-14451,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0322,UNK,NULL,U
+MACFL,nep,MACFL-14452,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0425,UNK,NULL,U
+MACFL,nep,MACFL-14453,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0286,UNK,NULL,U
+MACFL,nep,MACFL-14454,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0335,UNK,NULL,U
+MACFL,nep,MACFL-14455,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0326,UNK,NULL,U
+MACFL,nep,MACFL-14456,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.163,FORK,0.0441,UNK,NULL,U
+MACFL,nep,MACFL-14457,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0476,UNK,NULL,U
+MACFL,nep,MACFL-14458,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0407,UNK,NULL,U
+MACFL,nep,MACFL-14459,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0352,UNK,NULL,U
+MACFL,nep,MACFL-14460,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0322,UNK,NULL,U
+MACFL,nep,MACFL-14461,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0307,UNK,NULL,U
+MACFL,nep,MACFL-14462,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.162,FORK,0.0468,UNK,NULL,U
+MACFL,nep,MACFL-14463,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0444,UNK,NULL,U
+MACFL,nep,MACFL-14464,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0323,UNK,NULL,U
+MACFL,nep,MACFL-14465,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.165,FORK,0.0475,UNK,NULL,U
+MACFL,nep,MACFL-14466,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.172,FORK,0.0547,UNK,NULL,U
+MACFL,nep,MACFL-14467,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0364,UNK,NULL,U
+MACFL,nep,MACFL-14468,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0361,UNK,NULL,U
+MACFL,nep,MACFL-14469,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0317,UNK,NULL,U
+MACFL,nep,MACFL-14470,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0334,UNK,NULL,U
+MACFL,nep,MACFL-14471,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0374,UNK,NULL,U
+MACFL,nep,MACFL-14472,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0366,UNK,NULL,U
+MACFL,nep,MACFL-14473,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.161,FORK,0.0434,UNK,NULL,U
+MACFL,nep,MACFL-14474,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0303,UNK,NULL,U
+MACFL,nep,MACFL-14475,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0304,UNK,NULL,U
+MACFL,nep,MACFL-14476,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.157,FORK,0.0394,UNK,NULL,U
+MACFL,nep,MACFL-14477,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0324,UNK,NULL,U
+MACFL,nep,MACFL-14478,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0361,UNK,NULL,U
+MACFL,nep,MACFL-14479,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0387,UNK,NULL,U
+MACFL,nep,MACFL-14480,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0336,UNK,NULL,U
+MACFL,nep,MACFL-14481,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0432,UNK,NULL,U
+MACFL,nep,MACFL-14482,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0386,UNK,NULL,U
+MACFL,nep,MACFL-14483,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0294,UNK,NULL,U
+MACFL,nep,MACFL-14484,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0325,UNK,NULL,U
+MACFL,nep,MACFL-14485,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0295,UNK,NULL,U
+MACFL,nep,MACFL-14486,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0384,UNK,NULL,U
+MACFL,nep,MACFL-14487,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.171,FORK,0.055,UNK,NULL,U
+MACFL,nep,MACFL-14488,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0378,UNK,NULL,U
+MACFL,nep,MACFL-14489,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0369,UNK,NULL,U
+MACFL,nep,MACFL-14490,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0283,UNK,NULL,U
+MACFL,nep,MACFL-14491,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.174,FORK,0.0558,UNK,NULL,U
+MACFL,nep,MACFL-14492,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0273,UNK,NULL,U
+MACFL,nep,MACFL-14493,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0363,UNK,NULL,U
+MACFL,nep,MACFL-14494,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.156,FORK,0.0423,UNK,NULL,U
+MACFL,nep,MACFL-14495,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.168,FORK,0.0476,UNK,NULL,U
+MACFL,nep,MACFL-14496,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.162,FORK,0.0487,UNK,NULL,U
+MACFL,nep,MACFL-14497,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0411,UNK,NULL,U
+MACFL,nep,MACFL-14498,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0436,UNK,NULL,U
+MACFL,nep,MACFL-14499,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0353,UNK,NULL,U
+MACFL,nep,MACFL-14500,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.175,FORK,0.0578,UNK,NULL,U
+MACFL,nep,MACFL-14501,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.154,FORK,0.0422,UNK,NULL,U
+MACFL,nep,MACFL-14502,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0422,UNK,NULL,U
+MACFL,nep,MACFL-14503,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0297,UNK,NULL,U
+MACFL,nep,MACFL-14504,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.162,FORK,0.0469,UNK,NULL,U
+MACFL,nep,MACFL-14505,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.158,FORK,0.0403,UNK,NULL,U
+MACFL,nep,MACFL-14506,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.165,FORK,0.0477,UNK,NULL,U
+MACFL,nep,MACFL-14507,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.165,FORK,0.0512,UNK,NULL,U
+MACFL,nep,MACFL-14508,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0435,UNK,NULL,U
+MACFL,nep,MACFL-14509,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.146,FORK,0.0326,UNK,NULL,U
+MACFL,nep,MACFL-14510,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.031,UNK,NULL,U
+MACFL,nep,MACFL-14511,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0293,UNK,NULL,U
+MACFL,nep,MACFL-14512,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0335,UNK,NULL,U
+MACFL,nep,MACFL-14513,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0425,UNK,NULL,U
+MACFL,nep,MACFL-14514,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.164,FORK,0.0509,UNK,NULL,U
+MACFL,nep,MACFL-14515,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0294,UNK,NULL,U
+MACFL,nep,MACFL-14516,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.153,FORK,0.0366,UNK,NULL,U
+MACFL,nep,MACFL-14517,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.144,FORK,0.0299,UNK,NULL,U
+MACFL,nep,MACFL-14518,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.147,FORK,0.0348,UNK,NULL,U
+MACFL,nep,MACFL-14519,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0318,UNK,NULL,U
+MACFL,nep,MACFL-14520,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0342,UNK,NULL,U
+MACFL,nep,MACFL-14521,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.173,FORK,0.0602,UNK,NULL,U
+MACFL,nep,MACFL-14522,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.165,FORK,0.0497,UNK,NULL,U
+MACFL,nep,MACFL-14523,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.166,FORK,0.0475,UNK,NULL,U
+MACFL,nep,MACFL-14524,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.152,FORK,0.0427,UNK,NULL,U
+MACFL,nep,MACFL-14525,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.163,FORK,0.0487,UNK,NULL,U
+MACFL,nep,MACFL-14526,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.148,FORK,0.0331,UNK,NULL,U
+MACFL,nep,MACFL-14527,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0283,UNK,NULL,U
+MACFL,nep,MACFL-14528,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.16,FORK,0.0458,UNK,NULL,U
+MACFL,nep,MACFL-14529,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.15,FORK,0.0383,UNK,NULL,U
+MACFL,nep,MACFL-14530,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.151,FORK,0.0357,UNK,NULL,U
+MACFL,nep,MACFL-14531,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.145,FORK,0.0317,UNK,NULL,U
+MACFL,nep,MACFL-14532,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.149,FORK,0.0341,UNK,NULL,U
+MACFL,nep,MACFL-14533,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.14,FORK,0.0277,UNK,NULL,U
+MACFL,nep,MACFL-14534,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.159,FORK,0.0423,UNK,NULL,U
+MACFL,nep,MACFL-14535,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.141,FORK,0.0284,UNK,NULL,U
+MACFL,nep,MACFL-14536,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.155,FORK,0.0355,UNK,NULL,U
+MACFL,nep,MACFL-14537,Chinook salmon,Oncorhynchus tshawytscha,158075,161980,H,Central Valley Late-Fall,0.142,FORK,0.0286,UNK,NULL,U

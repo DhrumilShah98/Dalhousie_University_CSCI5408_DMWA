@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>dhrumil.amish.shah.csci5408.a4</groupId>
+  <artifactId>A4</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0.0</version>
+  <name>CSCI 5408 Assignment 4</name>
+  <inceptionYear>2021</inceptionYear>
+
+  <developers>
+    <developer>
+      <id>B00857606</id>
+      <name>Dhrumil Amish Shah</name>
+      <email>dh4163868@dal.ca</email>
+    </developer>
+  </developers>
+
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
+    <dependency>
+      <groupId>org.mongodb</groupId>
+      <artifactId>mongo-java-driver</artifactId>
+      <version>3.12.8</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>14</release>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

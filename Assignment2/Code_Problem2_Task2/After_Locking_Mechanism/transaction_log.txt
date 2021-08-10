@@ -1,0 +1,28 @@
+         TRX NUM   Operation                       Table           Attribute  Before Val   After Val                Timestamp
+T1-1624312126398      SELECT     olist_customers_dataset       customer_city           -   sao paulo 22 Jun 2021 03:18:47.535
+T1-1624312126398      UPDATE     olist_customers_dataset       customer_city   sao paulo     T1 city 22 Jun 2021 03:18:47.555
+T2-1624312126408      SELECT     olist_customers_dataset       customer_city           -     T1 city 22 Jun 2021 03:18:47.640
+T2-1624312126408      UPDATE     olist_customers_dataset       customer_city     T1 city     T2 city 22 Jun 2021 03:18:47.658
+T3-1624312126408      SELECT     olist_customers_dataset       customer_city           -     T2 city 22 Jun 2021 03:18:47.739
+T3-1624312126408      UPDATE     olist_customers_dataset       customer_city     T2 city     T3 city 22 Jun 2021 03:18:47.757
+
+T2-1624312136773      SELECT     olist_customers_dataset       customer_city           -     T3 city 22 Jun 2021 03:18:57.745
+T2-1624312136773      UPDATE     olist_customers_dataset       customer_city     T3 city     T2 city 22 Jun 2021 03:18:57.764
+T1-1624312136766      SELECT     olist_customers_dataset       customer_city           -     T2 city 22 Jun 2021 03:18:57.844
+T1-1624312136766      UPDATE     olist_customers_dataset       customer_city     T2 city     T1 city 22 Jun 2021 03:18:57.860
+T3-1624312136773      SELECT     olist_customers_dataset       customer_city           -     T1 city 22 Jun 2021 03:18:57.942
+T3-1624312136773      UPDATE     olist_customers_dataset       customer_city     T1 city     T3 city 22 Jun 2021 03:18:57.959
+
+T2-1624312140727      SELECT     olist_customers_dataset       customer_city           -     T3 city 22 Jun 2021 03:19:01.687
+T2-1624312140727      UPDATE     olist_customers_dataset       customer_city     T3 city     T2 city 22 Jun 2021 03:19:01.706
+T3-1624312140727      SELECT     olist_customers_dataset       customer_city           -     T2 city 22 Jun 2021 03:19:01.794
+T3-1624312140727      UPDATE     olist_customers_dataset       customer_city     T2 city     T3 city 22 Jun 2021 03:19:01.813
+T1-1624312140720      SELECT     olist_customers_dataset       customer_city           -     T3 city 22 Jun 2021 03:19:01.890
+T1-1624312140720      UPDATE     olist_customers_dataset       customer_city     T3 city     T1 city 22 Jun 2021 03:19:01.905
+
+T1-1624312153572      SELECT     olist_customers_dataset       customer_city           -     T1 city 22 Jun 2021 03:19:14.527
+T1-1624312153572      UPDATE     olist_customers_dataset       customer_city     T1 city     T1 city 22 Jun 2021 03:19:14.547
+T3-1624312153579      SELECT     olist_customers_dataset       customer_city           -     T1 city 22 Jun 2021 03:19:14.626
+T3-1624312153579      UPDATE     olist_customers_dataset       customer_city     T1 city     T3 city 22 Jun 2021 03:19:14.645
+T2-1624312153579      SELECT     olist_customers_dataset       customer_city           -     T3 city 22 Jun 2021 03:19:14.724
+T2-1624312153579      UPDATE     olist_customers_dataset       customer_city     T3 city     T2 city 22 Jun 2021 03:19:14.740

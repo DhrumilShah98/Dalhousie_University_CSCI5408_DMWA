@@ -1,0 +1,1001 @@
+platform_project_reference,datacenter_reference,platform_reference_id,platform_type,platform_depth,latitude,longitude
+SAF,OTN-Global,SAF-MB002,Underwater mooring,21,-34.08662,22.19435
+SAF,OTN-Global,SAF-MB013,Underwater mooring,48,-34.15786,22.24009
+SAF,OTN-Global,SAF-FB001,Underwater mooring,41,-34.36798,18.81178
+SAF,OTN-Global,SAF-MB014,Underwater mooring,50,-34.16428,22.24424
+SAF,OTN-Global,SAF-AB001,Underwater mooring,20,-33.77729,26.31278
+SAF,OTN-Global,SAF-AB002,Underwater mooring,20,-33.78536,26.31389
+SAF,OTN-Global,SAF-AB003,Underwater mooring,28,-33.79325,26.3152
+SAF,OTN-Global,SAF-AB004,Underwater mooring,28,-33.8017,26.31621
+SAF,OTN-Global,SAF-AB005,Underwater mooring,30,-33.80968,26.31628
+SAF,OTN-Global,SAF-AB006,Underwater mooring,31,-33.81786,26.31632
+SAF,OTN-Global,SAF-AB007,Underwater mooring,29,-33.82578,26.31655
+SAF,OTN-Global,SAF-MB001,Underwater mooring,15,-34.08061,22.1905
+SAF,OTN-Global,SAF-HB005,Underwater mooring,82,-34.04391,18.27266
+SAF,OTN-Global,SAF-MB003,Underwater mooring,27,-34.09309,22.1985
+SAF,OTN-Global,SAF-MB004,Underwater mooring,31,-34.0996,22.20267
+SAF,OTN-Global,SAF-MB005,Underwater mooring,35,-34.10602,22.20682
+SAF,OTN-Global,KM001,Underwater mooring,30.8,-32.704722,28.384833
+SAF,OTN-Global,SAF-FB002,Underwater mooring,54,-34.36868,18.80307
+SAF,OTN-Global,SAF-FB003,Underwater mooring,61,-34.36905,18.79488
+SAF,OTN-Global,SAF-FB004,Underwater mooring,73,-34.36967,18.7865
+SAF,OTN-Global,SAF-MB006,Underwater mooring,37,-34.11254,22.211
+SAF,OTN-Global,SAF-MB007,Underwater mooring,38,-34.1191,22.21518
+SAF,OTN-Global,SAF-FB005,Underwater mooring,71,-34.37021,18.77812
+SAF,OTN-Global,SAF-HB001,Underwater mooring,29,-34.04449,18.30325
+SAF,OTN-Global,SAF-HB002,Underwater mooring,38,-34.04445,18.29575
+SAF,OTN-Global,SAF-GB001,Underwater mooring,20,-34.06667,22.24215
+SAF,OTN-Global,SAF-GB002,Underwater mooring,27,-34.07296,22.24687
+SAF,OTN-Global,SAF-GB003,Underwater mooring,30,-34.07895,22.25137
+SAF,OTN-Global,SAF-CSB001,Underwater mooring,25,-34.18228,22.1753
+SAF,OTN-Global,SAF-CSB002,Underwater mooring,33,-34.18782,22.1818
+SAF,OTN-Global,SAF-CSB003,Underwater mooring,43,-34.19321,22.18766
+SAF,OTN-Global,SAF-HB003,Underwater mooring,60,-34.04431,18.28771
+SAF,OTN-Global,SAF-HB004,Underwater mooring,68,-34.04415,18.28085
+SAF,OTN-Global,SAF-MOZ001,Underwater mooring,17.7,-26.85456,32.89933
+SAF,OTN-Global,SAF-MOZ002,Underwater mooring,29.1,-26.8545,32.90536
+SAF,OTN-Global,SAF-MOZ003,Underwater mooring,45.1,-26.8545,32.91139
+SAF,OTN-Global,SAF-Bushmans,Underwater mooring,1.8,-33.68522,26.66255
+SAF,OTN-Global,SAF-Great Fish,Underwater mooring,1.5,-33.49092,27.12949
+SAF,OTN-Global,SAF-Kariega,Underwater mooring,1.5,-33.67194,26.67469
+SAF,OTN-Global,SAF-Kowie,Underwater mooring,1.5,-33.59969,26.89424
+SAF,OTN-Global,KM002,Underwater mooring,44.1,-32.708083,28.391333
+SAF,OTN-Global,KM003,Underwater mooring,40.9,-32.711,28.397972
+SAF,OTN-Global,SAF-CP001,Underwater mooring,32,-34.32815,18.4748
+SAF,OTN-Global,SAF-CP002,Underwater mooring,50,-34.3275,18.48335
+SAF,OTN-Global,SAF-CP003,Underwater mooring,60,-34.32701,18.49183
+SAF,OTN-Global,SAF-CP004,Underwater mooring,64,-34.32656,18.50018
+SAF,OTN-Global,SAF-CP005,Underwater mooring,67,-34.32618,18.50856
+SAF,OTN-Global,SAF-PA001,Underwater mooring,28.4,-33.62376,26.89191
+SAF,OTN-Global,SAF-PA002,Underwater mooring,34.2,-33.62813,26.89851
+SAF,OTN-Global,GSB-GSB002,Underwater mooring,29,-34.70415,19.40503
+SAF,OTN-Global,SAF-MOZ004,Underwater mooring,44.9,-26.85447,32.91739
+SAF,OTN-Global,SAF-PA003,Underwater mooring,39.2,-33.63283,26.90616
+SAF,OTN-Global,SAF-PA004,Underwater mooring,50.2,-33.63732,26.91446
+SAF,OTN-Global,SAF-PA005,Underwater mooring,61.1,-33.64155,26.92158
+SAF,OTN-Global,RECAPTURE-SAIAB-52-14,Underwater mooring,NULL,-33.86534,25.63307
+SAF,OTN-Global,RECAPTURE-SAIAB-r0-14,Underwater mooring,NULL,-33.86534,25.63307
+SAF,OTN-Global,SAF-MOZ005,Underwater mooring,49.5,-26.85447,32.92342
+SAF,OTN-Global,SAF-Sundays,Underwater mooring,1.5,-33.69511,25.83502
+SAF,OTN-Global,SAF-PSJ001,Underwater mooring,20,-31.61339,29.58931
+SAF,OTN-Global,SAF-PSJ002,Underwater mooring,34,-31.61746,29.59521
+SAF,OTN-Global,SAF-PSJ003,Underwater mooring,42,-31.62116,29.60119
+SAF,OTN-Global,SAF-PSJ004,Underwater mooring,54,-31.62494,29.60773
+SAF,OTN-Global,SAF-PSJ005,Underwater mooring,70,-31.62851,29.61389
+SAF,OTN-Global,RECAPTURE-SAIAB-23-14,Underwater mooring,NULL,-33.72009,25.85276
+SAF,OTN-Global,GSB-GSB003,Underwater mooring,29,-34.71118,19.40718
+SAF,OTN-Global,EST-Coega,Underwater mooring,3,-33.79908,25.69785
+SAF,OTN-Global,EST-Gamtoos,Underwater mooring,1.6,-33.96096,25.01524
+SAF,OTN-Global,EST-Gouritz,Underwater mooring,1,-34.33985,21.881
+SAF,OTN-Global,EST-Keiskamma,Underwater mooring,1.3,-33.27771,27.48596
+SAF,OTN-Global,EST-Knysna,Underwater mooring,6,-34.06535,23.04641
+SAF,OTN-Global,EST-Kromme,Underwater mooring,1.8,-34.13954,24.83558
+SAF,OTN-Global,EST-Mzimvubu,Underwater mooring,0.5,-31.5952,29.52911
+SAF,OTN-Global,EST-Swartkops,Underwater mooring,1.5,-33.85946,25.6262
+SAF,OTN-Global,GSB-GSB001,Underwater mooring,22,-34.69697,19.40488
+SAF,OTN-Global,GSB-GSB004,Underwater mooring,41,-34.71837,19.40892
+SAF,OTN-Global,GSB-GSB005,Underwater mooring,62,-34.72553,19.41082
+SAF,OTN-Global,GWE-GG001,Underwater mooring,18,-31.293,30.0168
+SAF,OTN-Global,JP-JP001,Underwater mooring,25,-27.5612,32.6861
+SAF,OTN-Global,JP-JP002,Underwater mooring,40,-27.56112,32.69218
+SAF,OTN-Global,JP-JP003,Underwater mooring,63,-27.56113,32.69847
+SAF,OTN-Global,JP-JP004,Underwater mooring,68,-27.56118,32.70455
+SAF,OTN-Global,JP-JP005,Underwater mooring,96,-27.56113,32.7112
+SAF,OTN-Global,SAF-AB008,Underwater mooring,25,-33.83396,26.31708
+SAF,OTN-Global,SAF-AB009,Underwater mooring,22,-33.84197,26.31772
+SAF,OTN-Global,SAF-AB010,Underwater mooring,25,-33.84899,26.31833
+SAF,OTN-Global,SAF-AB011,Underwater mooring,34,-33.8571,26.31908
+SAF,OTN-Global,SAF-AB012,Underwater mooring,38,-33.86496,26.31999
+SAF,OTN-Global,SAF-AB013,Underwater mooring,42,-33.87194,26.32075
+SAF,OTN-Global,SAF-AB014,Underwater mooring,51,-33.87948,26.32158
+SAF,OTN-Global,SAF-AB015,Underwater mooring,62,-33.8868,26.32199
+SAF,OTN-Global,SAF-MB008,Underwater mooring,40,-34.12556,22.21933
+SAF,OTN-Global,SAF-MB009,Underwater mooring,42,-34.13199,22.22348
+SAF,OTN-Global,SAF-MB010,Underwater mooring,44,-34.1385,22.22766
+SAF,OTN-Global,SAF-AB016,Underwater mooring,78,-33.89395,26.32216
+SAF,OTN-Global,SAF-AB017,Underwater mooring,79,-33.90068,26.32248
+SAF,OTN-Global,SAF-AB018,Underwater mooring,91,-33.90823,26.32264
+SAF,OTN-Global,SAF-AB019,Underwater mooring,95,-33.91389,26.32297
+SAF,OTN-Global,SAF-AB020,Underwater mooring,93,-33.9199,26.32371
+SAF,OTN-Global,SAF-MB011,Underwater mooring,46,-34.14488,22.23176
+SAF,OTN-Global,SAF-MB012,Underwater mooring,48,-34.15143,22.23597
+SAF,OTN-Global,SAF-MB010T,Underwater mooring,47,-34.1385,22.22766
+SAF,OTN-Global,EST-Storms River,Underwater mooring,8,-34.01886,23.90357
+SAF,OTN-Global,DUR-BRDeep,Underwater mooring,26,-29.90783,31.05077
+SAF,OTN-Global,DUR-BRShallow,Underwater mooring,15,-29.90528,31.04613
+SAF,OTN-Global,DUR-Dharb,Underwater mooring,9,-29.86467,31.05718
+SAF,OTN-Global,GWE-GG002,Underwater mooring,29,-31.29557,30.02297
+SAF,OTN-Global,EST-Goukou,Underwater mooring,2,-34.36857,21.41443
+SAF,OTN-Global,EST-Mngazana,Underwater mooring,1.5,-31.68787,29.38733
+SAF,OTN-Global,PR-PR001,Underwater mooring,19.2,-30.82203,30.41302
+SAF,OTN-Global,UM-UM001,Underwater mooring,20,-29.61437,31.16558
+SAF,OTN-Global,RECAPTURE-SAIAB-22-14,Underwater mooring,NULL,-33.0057,27.82525
+SAF,OTN-Global,RECAPTURE-SAIAB-38-14,Underwater mooring,NULL,-33.72009,25.85276
+SAF,OTN-Global,RECAPTURE-SAIAB-53-14,Underwater mooring,NULL,-31.59999,29.53117
+SAF,OTN-Global,RECAPTURE-SAIAB-28-14,Underwater mooring,NULL,-31.59999,29.53117
+SAF,OTN-Global,RECAPTURE-SAIAB-25876,Underwater mooring,NULL,-33.4962,27.14026
+SAF,OTN-Global,EST-DUI,Underwater mooring,1.6,-34.35142,21.00866
+SAF,OTN-Global,EST-Klein Brak,Underwater mooring,2,-34.09104,22.1425
+SAF,OTN-Global,EST-Tyolomnqa,Underwater mooring,1.2,-33.22471,27.57863
+SAF,OTN-Global,EST-Breede,Underwater mooring,1.5,-34.3974,20.8353
+SAF,OTN-Global,EST-Ntafufu,Underwater mooring,1.5,-31.557,29.6258
+SAF,OTN-Global,GWE-GG01,Underwater mooring,18,-31.2929,30.0176
+SAF,OTN-Global,GWE-GG02,Underwater mooring,29,-31.2952,30.022
+SAF,OTN-Global,KZN-Hibberdene,Underwater mooring,20,-30.5877,30.5777
+SAF,OTN-Global,KZN-Ifafa,Underwater mooring,18,-30.4658,30.6593
+SAF,OTN-Global,KZN-Mbango 1,Underwater mooring,20,-30.7567,30.4584
+SAF,OTN-Global,KZN-Mtwalume,Underwater mooring,19,-30.5014,30.6378
+SAF,OTN-Global,KZN-Mzamba,Underwater mooring,15,-31.0926,30.195
+SAF,OTN-Global,KZN-Palm beach,Underwater mooring,14.5,-30.9861,30.2931
+SAF,OTN-Global,KZN-Park Ryn,Underwater mooring,18,-30.3392,30.74
+SAF,OTN-Global,KZN-Pennington,Underwater mooring,18,-30.3928,30.7021
+SAF,OTN-Global,KZN-Scott,Underwater mooring,12,-30.2795,30.7677
+SAF,OTN-Global,KZN-T.O. Strand,Underwater mooring,18,-31.0371,30.2454
+SAF,OTN-Global,KZN-Umtentweni,Underwater mooring,17,-30.7127,30.4892
+SAF,OTN-Global,PLB-PLB001,Underwater mooring,17,-34.0871,23.4011
+SAF,OTN-Global,PLB-PLB002,Underwater mooring,22,-34.0537,23.3966
+SAF,OTN-Global,PLB-PLB003,Underwater mooring,22,-34.014,23.4457
+SAF,OTN-Global,PLB-PLB004,Underwater mooring,22,-33.9903,23.5721
+SAF,OTN-Global,SAF-RR001,Underwater mooring,20,-27.0469,32.8653
+SAF,OTN-Global,SAF-RR002,Underwater mooring,30,-27.0469,32.8732
+SAF,OTN-Global,WB-WB001,Underwater mooring,24,-34.4195,19.2539
+SAF,OTN-Global,WB-WB002,Underwater mooring,24,-34.4206,19.2475
+SAF,OTN-Global,WB-WB003,Underwater mooring,23,-34.4259,19.2842
+SAF,OTN-Global,WB-WB004,Underwater mooring,27,-34.4362,19.2276
+V2LKZNSB,SAF,V2LKZNSB-HIBBERDENE,Underwater mooring,20,-30.5877,30.5777
+V2LKZNSB,SAF,V2LKZNSB-IFAFA,Underwater mooring,18,-30.4658,30.6593
+V2LKZNSB,SAF,V2LKZNSB-MBANGO 1,Underwater mooring,20,-30.7567,30.4584
+V2LKZNSB,SAF,V2LKZNSB-MTWALUME,Underwater mooring,19,-30.5014,30.6378
+V2LKZNSB,SAF,V2LKZNSB-MZAMBA,Underwater mooring,15,-31.0926,30.195
+V2LKZNSB,SAF,V2LKZNSB-PALM BEACH,Underwater mooring,14.5,-30.9861,30.2931
+V2LKZNSB,SAF,V2LKZNSB-PARK RYN,Underwater mooring,18,-30.3392,30.74
+V2LKZNSB,SAF,V2LKZNSB-PENNINGTON,Underwater mooring,18,-30.3928,30.7021
+V2LKZNSB,SAF,V2LKZNSB-SCOTT,Underwater mooring,12,-30.2795,30.7677
+V2LKZNSB,SAF,V2LKZNSB-T.O. STRAND,Underwater mooring,18,-31.0371,30.2454
+V2LKZNSB,SAF,V2LKZNSB-UMTENTWENI,Underwater mooring,17,-30.7127,30.4892
+ADM,nep,Armitage Island,Underwater mooring,NULL,48.5345,-122.7956
+ADM,nep,Cypress Island,Underwater mooring,NULL,48.5957,-122.7301
+ADM,nep,Freeman Island,Underwater mooring,NULL,48.6991,-122.9522
+ADM,nep,Iceberg Point,Underwater mooring,NULL,48.4234,-122.8927
+ADM,nep,Lawrence Point,Underwater mooring,NULL,48.6597,-122.7344
+ADM,nep,Lime Kiln,Underwater mooring,NULL,48.5157,-123.1529
+ADM,nep,NW Blakely Dock,Underwater mooring,NULL,48.5856,-122.8173
+ADM,nep,Obstruction Pass,Underwater mooring,NULL,48.6003,-122.8305
+ADM,nep,Patos Island,Underwater mooring,NULL,48.7856,-122.9705
+ADM,nep,Point George,Underwater mooring,NULL,48.5608,-122.9892
+ADM,nep,Sentinel Island,Underwater mooring,NULL,48.6392,-123.1643
+ADM,nep,Sucia,Underwater mooring,NULL,48.7463,-122.8993
+ADM,nep,ADMIRALTY001,Underwater mooring,60,48.07304,-122.61662
+ADM,nep,ADMIRALTY002,Underwater mooring,123,48.07201,-122.6235
+ADM,nep,ADMIRALTY003,Underwater mooring,159,48.07204,-122.62987
+ADM,nep,ADMIRALTY004,Underwater mooring,146,48.07323,-122.63297
+ADM,nep,ADMIRALTY005,Underwater mooring,128,48.07158,-122.64118
+ADM,nep,ADMIRALTY006,Underwater mooring,134,48.07332,-122.644
+ADM,nep,ADMIRALTY007,Underwater mooring,119,48.07185,-122.64923
+ADM,nep,ADMIRALTY008,Underwater mooring,86,48.07331,-122.655
+ADM,nep,ADMIRALTY009,Underwater mooring,75,48.07335,-122.66151
+ADM,nep,Turn Pt Stuart Is,Underwater mooring,NULL,48.6883,-123.2374
+ADM,nep,Yellow Island,Underwater mooring,NULL,48.5904,-123.0336
+ADM,nep,ADMIRALTY010,Underwater mooring,79,48.07359,-122.66689
+ADM,nep,ADMIRALTY011,Underwater mooring,101,48.07327,-122.67194
+ADM,nep,ADMIRALTY012,Underwater mooring,88,48.07331,-122.67749
+ADM,nep,ADMIRALTY013,Underwater mooring,20,48.07337,-122.68244
+ADM,nep,SJ013,Underwater mooring,NULL,48.5582,-123.1737
+ADM,nep,SJ017,Underwater mooring,NULL,48.4796,-123.0736
+ADM,nep,SJ007,Underwater mooring,NULL,48.6004,-122.8292
+ADM,nep,ADM-test tags,Underwater mooring,NULL,48.1,-122.4
+ALFA,nep,NETS1,Underwater mooring,57,44.7002,-124.1495
+ALFA,nep,NETS2,Underwater mooring,60,44.7002,-124.1588
+ALFA,nep,NETS3,Underwater mooring,63,44.7002,-124.1685
+ALFA,nep,NETS4,Underwater mooring,65,44.7002,-124.1778
+ALFA,nep,NETS5,Underwater mooring,68,44.6997,-124.1875
+ALFA,nep,NETS6,Underwater mooring,69,44.7,-124.1968
+ALFA,nep,NETS7,Underwater mooring,69,44.7002,-124.2063
+ALFA,nep,NETS8,Underwater mooring,67,44.7002,-124.2157
+ALFA,nep,SETSA1,Underwater mooring,55,44.5583,-124.1768
+ALFA,nep,SETSA2,Underwater mooring,57,44.5582,-124.1863
+ALFA,nep,SETSA3,Underwater mooring,59,44.5583,-124.1958
+ALFA,nep,SETSA4,Underwater mooring,61,44.5583,-124.2053
+ALFA,nep,SETSA5,Underwater mooring,64,44.5583,-124.2143
+ALFA,nep,SETSA6,Underwater mooring,68,44.5582,-124.2242
+ALFA,nep,SETSA7,Underwater mooring,73,44.5582,-124.2337
+ALFA,nep,SETSA8,Underwater mooring,75,44.5583,-124.243
+ALFA,nep,SETSB1,Underwater mooring,56,44.541,-124.1775
+ALFA,nep,SETSB2,Underwater mooring,58,44.542,-124.1863
+ALFA,nep,SETSB3,Underwater mooring,59,44.5415,-124.1958
+ALFA,nep,SETSB4,Underwater mooring,61,44.5418,-124.2052
+ALFA,nep,SETSB5,Underwater mooring,65,44.5417,-124.215
+ALFA,nep,SETSB6,Underwater mooring,69,44.5415,-124.2242
+ALFA,nep,SETSB7,Underwater mooring,74,44.5417,-124.2337
+ALFA,nep,SETSB8,Underwater mooring,73,44.5417,-124.243
+ALSEA,nep,5RIVERS-5RIVERS,Underwater mooring,3,44.215048,-123.493317
+ALSEA,nep,NEHALEM-O,Underwater mooring,2.1,45.484323,-123.45422
+ALSEA,nep,Jaws Inner-001,Underwater mooring,4.7,44.42404635,-124.0763811
+ALSEA,nep,Jaws Inner-002,Underwater mooring,9,44.42333407,-124.0755389
+ALSEA,nep,Jaws Inner-003,Underwater mooring,9,44.42261917,-124.0749731
+ALSEA,nep,Jaws outer-001,Underwater mooring,9,44.421937,-124.077674
+ALSEA,nep,Jaws outer-002,Underwater mooring,9,44.42129479,-124.0788933
+ALSEA,nep,MidEstuary-001,Underwater mooring,4,44.4380728,-124.064852
+ALSEA,nep,MidEstuary-002,Underwater mooring,3,44.43706504,-124.062861
+ALSEA,nep,MidEstuary-003,Underwater mooring,3,44.43570281,-124.0621955
+ALSEA,nep,Mouth of Fall Cr.-001,Underwater mooring,1.8,44.37606173,-123.7332235
+ALSEA,nep,NEHALEM-BOATLAUNCH,Underwater mooring,2.1,45.7058122,-123.8874564
+ALSEA,nep,NEHALEM-CONFLUENCE,Underwater mooring,1.8,45.7347839,-123.8748561
+ALSEA,nep,NEHALEM-JAWS,Underwater mooring,4.6,45.6600147,-123.9327628
+ALSEA,nep,NEHALEM-MOUTH,Underwater mooring,3.8,45.6634186,-123.9292892
+ALSEA,nep,NEHALEM-PARADISECOVE,Underwater mooring,3.2,45.6901011,-123.8984069
+ALSEA,nep,Oakland Marina-001,Underwater mooring,3.4,44.40627004,-123.9925692
+ALSEA,nep,Oakland Marina-002,Underwater mooring,3.7,44.41315737,-123.9945017
+ALSEA,nep,Oakland Marina-003,Underwater mooring,3,44.41376161,-123.9964463
+ALSEA,nep,Taylor Marina-002,Underwater mooring,4.6,44.40676489,-123.9469063
+ALSEA,nep,ALSEA-ABOVE5RIVERS,Underwater mooring,1.5,44.3609694,-123.8285719
+ALSEA,nep,ALSEA-FALL CR,Underwater mooring,1.8,44.375655,-123.7307206
+ALSEA,nep,ALSEA-HEADOFTIDE,Underwater mooring,6.1,44.4024836,-123.8951375
+ALSEA,nep,ALSEA-JAWS,Underwater mooring,6.1,44.4219378,-124.0776739
+ALSEA,nep,ALSEA-LOWESTUARY,Underwater mooring,3.4,44.4372769,-124.0615078
+ALSEA,nep,ALSEA-MOUTH,Underwater mooring,6.4,44.4219378,-124.0776739
+ALSEA,nep,ALSEA-OAKLANDS,Underwater mooring,1.8,44.41317,-123.9941878
+ALSEA,nep,ALSEA-TAYLORS,Underwater mooring,8.5,44.4067714,-123.9451122
+ALSEA,nep,Head of Tide-001,Underwater mooring,6.1,44.40429287,-123.8928042
+ALSEA,nep,Head of Tide-002,Underwater mooring,4.9,44.40351769,-123.8940734
+ALSEA,nep,Head of Tide-003,Underwater mooring,3.4,44.4107652,-123.8939085
+ALSEA,nep,Five rivers-001,Underwater mooring,1.5,44.36096902,-123.828572
+ALSEA,nep,Upper Alsea-001,Underwater mooring,1.8,44.37369792,-123.7283866
+ALSEA,nep,S.FK NEHALEM,Underwater mooring,3.7,45.7318114,-123.8680878
+ALSEA,nep,Taylor Marina-001,Underwater mooring,8.2,44.40677977,-123.9451124
+BOOMBARI,nep,1,Underwater mooring,NULL,23.485583,-109.4046
+BOOONC,nep,BNDYP,Underwater mooring,228,48.7663,-123.0402
+BOOONC,nep,JF2C,Underwater mooring,180,48.3607,-124.2128
+BOOONC,nep,JFCN,Underwater mooring,231,48.5081,-124.74912
+BOOONC,nep,AS04,Underwater mooring,118,48.3005,-123.3914
+BOOONC,nep,MAC,Underwater mooring,61,48.401,-123.4089
+BOOONC,nep,AS04-1,Underwater mooring,123,48.30016667,-123.3912
+BOOONC,nep,AS04-2,Underwater mooring,119,48.30045,-123.39135
+BOOONC,nep,AS04-3,Underwater mooring,120,48.3003167,-123.3912833
+BOOONC,nep,AS04-4,Underwater mooring,121,48.300556,-123.390944
+BOOONC,nep,AS04-5,Underwater mooring,118,48.30088889,-123.3914444
+BOOONC,nep,AS04-6,Underwater mooring,121,48.30095,-123.3909167
+BOOONC,nep,AS04-7,Underwater mooring,119,48.3008,-123.3908
+BOOONC,nep,AS04-8,Underwater mooring,341,48.3009667,-123.3907333
+BOOONC,nep,AS04-9,Underwater mooring,119,48.30061667,-123.3911333
+BOOONC,nep,BCH-1,Underwater mooring,408,48.3332,-125.875583
+BOOONC,nep,BCH-2,Underwater mooring,415,48.3332,-125.875583
+BOOONC,nep,BNDYP-1,Underwater mooring,240,48.76593333,-123.0385167
+BOOONC,nep,BNDYP-10,Underwater mooring,233,48.76633333,-123.03925
+BOOONC,nep,BNDYP-2,Underwater mooring,230,48.7663,-123.04022
+BOOONC,nep,BNDYP-3,Underwater mooring,235,48.76653333,-123.0391333
+BOOONC,nep,BNDYP-4,Underwater mooring,229,48.766366,-123.0392166
+BOOONC,nep,BNDYP-5,Underwater mooring,230,48.7665,-123.039556
+BOOONC,nep,BNDYP-6,Underwater mooring,234,48.76622222,-123.0391944
+BOOONC,nep,BNDYP-7,Underwater mooring,231,48.76641667,-123.0387833
+BOOONC,nep,BNDYP-8,Underwater mooring,233,48.7666,-123.0379
+BOOONC,nep,BNDYP-9,Underwater mooring,237,48.7664167,-123.0390833
+BOOONC,nep,JF2C-1,Underwater mooring,181,48.36038333,-124.2133667
+BOOONC,nep,JF2C-2,Underwater mooring,183,48.36067,-124.21282
+BOOONC,nep,JF2C-3,Underwater mooring,191,48.35636667,-124.2157667
+BOOONC,nep,JF2C-4,Underwater mooring,192,48.3561833,-124.2160217
+BOOONC,nep,JF2C-5,Underwater mooring,187,48.356195,-124.216027
+BOOONC,nep,JF2C-6,Underwater mooring,190,48.35619497,-124.2160267
+BOOONC,nep,JF2C-7,Underwater mooring,190,48.3559745,-124.2157838
+BOOONC,nep,JF2C-8,Underwater mooring,187,48.35590331,-124.2158833
+BOOONC,nep,JFCN-1,Underwater mooring,250,48.50788333,-124.7504667
+BOOONC,nep,JFCN-2,Underwater mooring,245,48.50813,-123.74912
+BOOONC,nep,JFCN-3,Underwater mooring,235,48.50841667,-124.7507167
+BOOONC,nep,JFCN-4,Underwater mooring,228,48.508333,-124.7500833
+BOOONC,nep,JFCN-5,Underwater mooring,232,48.5083383,-124.7500933
+BOOONC,nep,MAC-1,Underwater mooring,65,48.40116667,-123.4089833
+BOOONC,nep,MAC-2,Underwater mooring,62,48.401,-123.4089
+BOOONC,nep,MAC-3,Underwater mooring,62,48.4010833,-123.4089167
+BOOONC,nep,MAC-4,Underwater mooring,62,48.401139,-123.409083
+BOOONC,nep,MAC-5,Underwater mooring,62,48.40122222,-123.4087778
+BOOONC,nep,MAC-6,Underwater mooring,63,48.4011,-123.4084833
+BOOONC,nep,MAC-7,Underwater mooring,62,48.4013,-123.4083
+BOOONC,nep,MAC-8,Underwater mooring,62,48.4012,-123.4091333
+BOOONC,nep,MAC-9,Underwater mooring,62,48.40111667,-123.4089667
+BRKS,nep,BROOKS001,Underwater mooring,34,50.12795,-127.92558
+BRKS,nep,BROOKS002,Underwater mooring,45,50.12608,-127.93725
+BRKS,nep,BROOKS003,Underwater mooring,57,50.12105,-127.94617
+BRKS,nep,BROOKS004,Underwater mooring,75,50.1153,-127.95462
+BRKS,nep,BROOKS005,Underwater mooring,75,50.10932,-127.96192
+BRKS,nep,BROOKS006,Underwater mooring,94,50.103,-127.96865
+BRKS,nep,BROOKS007,Underwater mooring,110,50.0969,-127.97582
+BRKS,nep,BROOKS008,Underwater mooring,137,50.0903,-127.982
+BURR,nep,BURRARD001,Underwater mooring,NULL,49.29263,-123.04453
+BURR,nep,BURRARD002,Underwater mooring,NULL,49.29985,-123.04252
+BURR,nep,BURRARD003,Underwater mooring,16.5,49.28985,-123.24013
+BURR,nep,BURRARD004,Underwater mooring,40.2,49.29395,-123.24125
+BURR,nep,BURRARD005,Underwater mooring,60.4,49.29804,-123.24237
+BURR,nep,BURRARD006,Underwater mooring,69.5,49.30222,-123.24289
+BURR,nep,BURRARD007,Underwater mooring,73.2,49.30626,-123.24452
+BURR,nep,BURRARD008,Underwater mooring,73.2,49.31044,-123.24629
+BURR,nep,BURRARD009,Underwater mooring,82.3,49.3144,-123.24807
+BURR,nep,BURRARD010,Underwater mooring,87.8,49.31865,-123.24919
+BURR,nep,BURRARD011,Underwater mooring,89.6,49.323,-123.24994
+BURR,nep,BURRARD012,Underwater mooring,76.8,49.3273,-123.25128
+BURR,nep,BURRARD013,Underwater mooring,49.4,49.33156,-123.25219
+BURR,nep,BURRARD014,Underwater mooring,31.1,49.33381,-123.2553
+CAPL,nep,CAPILANO001,Underwater mooring,NULL,49.3706,-123.1156
+CAPL,nep,CAPILANO002,Underwater mooring,NULL,49.3754,-123.1127
+CAPL,nep,CAPILANO003,Underwater mooring,NULL,49.373,-123.1184
+CAPL,nep,CAPILANO004,Underwater mooring,NULL,49.3631,-123.1132
+CAPL,nep,CAPILANO005,Underwater mooring,NULL,49.3669,-123.1078
+CAPL,nep,CAPILANO006,Underwater mooring,NULL,49.3815,-123.1251
+CAPL,nep,CAPILANO007,Underwater mooring,NULL,49.38,-123.1262
+CAPL,nep,CAPILANO008,Underwater mooring,NULL,49.3909,-123.1377
+CASC,nep,CASC_HD002,Underwater mooring,30.2,45.05197,-124.03629
+CASC,nep,CASC_HD003,Underwater mooring,38.4,45.05207,-124.04546
+CASC,nep,CASC_HD004,Underwater mooring,47.5,45.05205,-124.0566
+CASC,nep,CASC_HD005,Underwater mooring,54.9,45.0523,-124.06683
+CASC,nep,CASC_HD006,Underwater mooring,60.4,45.05235,-124.07865
+CASC,nep,CASC_HD007,Underwater mooring,64,45.05257,-124.08683
+CASC,nep,CASC_HD008,Underwater mooring,73.2,45.05257,-124.09688
+CASC,nep,CASC_HD009,Underwater mooring,78.6,45.0527,-124.10682
+CASC,nep,CASC_HD010,Underwater mooring,86,45.0527,-124.11685
+CASC,nep,CASC_HD011,Underwater mooring,91.4,45.05257,-124.12688
+CASC,nep,CASC_HD012,Underwater mooring,95.1,45.05288,-124.13702
+CASC,nep,CASC_HD013,Underwater mooring,100.6,45.05292,-124.14687
+CASC,nep,CASC_HD014,Underwater mooring,104.2,45.05313,-124.15713
+CASC,nep,CASC_HD015,Underwater mooring,107.9,45.053,-124.16712
+CASC,nep,CASC_HD016,Underwater mooring,113.4,45.05318,-124.17705
+CASC,nep,CASC_HD017,Underwater mooring,120.7,45.05342,-124.18717
+CASC,nep,CASC_HD018,Underwater mooring,126.2,45.05342,-124.19712
+CASC,nep,CASC_HD019,Underwater mooring,131.7,45.05353,-124.20723
+CASC,nep,CASC_HD020,Underwater mooring,137.2,45.0536,-124.21722
+CASC,nep,CASC_HD021,Underwater mooring,142.6,45.05367,-124.2274
+CASC,nep,CASC_HD022,Underwater mooring,148.1,45.05393,-124.2376
+CASC,nep,CASC_HD045,Underwater mooring,259.7,45.0531,-124.38551
+CASC,nep,CASC_HD046,Underwater mooring,270.7,45.05313,-124.39368
+CASC,nep,CASC_HD023,Underwater mooring,153.6,45.05397,-124.2475
+CASC,nep,CASC_HD024,Underwater mooring,157.3,45.05418,-124.2575
+CASC,nep,CASC_HD069,Underwater mooring,411.5,45.05391,-124.58157
+CASC,nep,CASC_HD025,Underwater mooring,160.9,45.05405,-124.26758
+CASC,nep,CASC_HD026,Underwater mooring,164.6,45.0544,-124.27777
+CASC,nep,CASC_HD027,Underwater mooring,168.2,45.0546,-124.2879
+CASC,nep,CASC_HD028,Underwater mooring,171.9,45.05462,-124.298
+CASC,nep,CASC_HD029,Underwater mooring,177.4,45.05453,-124.30818
+CASC,nep,CASC_HD030,Underwater mooring,184.7,45.05455,-124.32002
+CASC,nep,CASC_HD031,Underwater mooring,164.6,45.0527,-124.27136
+CASC,nep,CASC_HD032,Underwater mooring,167.9,45.05276,-124.27927
+CASC,nep,CASC_HD033,Underwater mooring,171,45.05276,-124.28753
+CASC,nep,CASC_HD034,Underwater mooring,174.1,45.05283,-124.29565
+CASC,nep,CASC_HD035,Underwater mooring,177.4,45.05279,-124.30381
+CASC,nep,CASC_HD036,Underwater mooring,182.1,45.05279,-124.312
+CASC,nep,CASC_HD037,Underwater mooring,186.5,45.05276,-124.32016
+CASC,nep,CASC_HD038,Underwater mooring,193.9,45.05284,-124.32832
+CASC,nep,CASC_HD039,Underwater mooring,201.2,45.05282,-124.33644
+CASC,nep,CASC_HD040,Underwater mooring,208.5,45.05276,-124.34466
+CASC,nep,CASC_HD042,Underwater mooring,226.8,45.05306,-124.3609
+CASC,nep,CASC_HD043,Underwater mooring,237.7,45.05313,-124.36919
+CASC,nep,CASC_HD044,Underwater mooring,250.5,45.05288,-124.37743
+CASC,nep,CASC_HD047,Underwater mooring,283.5,45.0529,-124.40179
+CASC,nep,CASC_HD048,Underwater mooring,294.4,45.05328,-124.4099
+CASC,nep,CASC_HD049,Underwater mooring,299.9,45.05326,-124.41812
+CASC,nep,CASC_HD050,Underwater mooring,310.9,45.05333,-124.42629
+CASC,nep,CASC_HD052,Underwater mooring,325.5,45.05335,-124.44257
+CASC,nep,CASC_HD053,Underwater mooring,329.2,45.05335,-124.4506
+CASC,nep,CASC_HD054,Underwater mooring,336.5,45.05332,-124.4589
+CASC,nep,CASC_HD055,Underwater mooring,342,45.05318,-124.46727
+CASC,nep,CASC_HD056,Underwater mooring,347.5,45.0532,-124.47558
+CASC,nep,CASC_HD057,Underwater mooring,353,45.05348,-124.48342
+CASC,nep,CASC_HD059,Underwater mooring,362.1,45.05358,-124.49987
+CASC,nep,CASC_HD060,Underwater mooring,365.8,45.05367,-124.50804
+CASC,nep,CASC_HD061,Underwater mooring,369.4,45.05357,-124.51608
+CASC,nep,CASC_HD062,Underwater mooring,371.2,45.05369,-124.52432
+CASC,nep,CASC_HD063,Underwater mooring,374.9,45.05363,-124.53249
+CASC,nep,CASC_HD064,Underwater mooring,378.6,45.05373,-124.54069
+CASC,nep,CASC_HD066,Underwater mooring,391.4,45.05372,-124.55688
+CASC,nep,CASC_HD067,Underwater mooring,396.8,45.05377,-124.56521
+CASC,nep,CASC_HD068,Underwater mooring,404.2,45.05389,-124.5732
+CASC,nep,CASC_HD070,Underwater mooring,420.6,45.05375,-124.5897
+CASC,nep,CASC_HD071,Underwater mooring,427.9,45.05398,-124.59789
+CASC,nep,CASC_HD041,Underwater mooring,217.6,45.05301,-124.35281
+CASC,nep,CASC_HD051,Underwater mooring,316.4,45.0532,-124.43442
+CASC,nep,CASC_HD058,Underwater mooring,358.4,45.05353,-124.49176
+CASC,nep,CASC_HD065,Underwater mooring,385.9,45.05376,-124.54869
+CCSALMON,nep,BURIAL_HO1,Underwater mooring,13.411,48.76977,-123.56252
+CCSALMON,nep,BURIAL_HO2,Underwater mooring,19.202,48.76995,-123.56323
+CCSALMON,nep,BURIAL_HO3,Underwater mooring,12.497,48.76878,-123.5641
+CCSALMON,nep,MB_BUOY,Underwater mooring,4.877,48.8212,-123.5913
+CCSALMON,nep,NREEF_HO1,Underwater mooring,8.839,48.91187,-123.62383
+CCSALMON,nep,NREEF_HO2,Underwater mooring,20.726,48.91335,-123.62723
+CCSALMON,nep,NREEF_HO3,Underwater mooring,22.86,48.91522,-123.62913
+CCSALMON,nep,NREEF_HO4,Underwater mooring,24.689,48.91608,-123.62818
+CCSALMON,nep,NREEF_HO5,Underwater mooring,21.641,48.91622,-123.62815
+CCSALMON,nep,SAN_DOCK,Underwater mooring,7.01,48.78645,-123.56185
+CCSALMON,nep,SAN_N_01,Underwater mooring,171.9072,48.84485,-123.57557
+CCSALMON,nep,SAN_N_02,Underwater mooring,162.7632,48.84467,-123.58548
+CCSALMON,nep,SAN_S_01,Underwater mooring,58.5216,48.74702,-123.55591
+CCSALMON,nep,SAN_S_02,Underwater mooring,102.4128,48.74691,-123.56457
+CCSALMON,nep,SAT_01,Underwater mooring,69.4944,48.6997,-123.47105
+CCSALMON,nep,SAT_02,Underwater mooring,76.8096,48.70547,-123.47437
+CCSALMON,nep,SAT_03,Underwater mooring,76.8096,48.7119,-123.47713
+CCSALMON,nep,STU_01,Underwater mooring,111.5568,48.9002,-123.59795
+CCSALMON,nep,STU_02,Underwater mooring,171.9072,48.89639,-123.60509
+CCSALMON,nep,STU_03,Underwater mooring,181.0512,48.89206,-123.6124
+CCSALMON,nep,STU_04,Underwater mooring,142.6464,48.8881,-123.62041
+CCSALMON,nep,STU_05,Underwater mooring,65.8368,48.8842,-123.62735
+COLR,nep,COLR-RKm22.5_15,Underwater mooring,0,46.20235,-123.85551
+COLR,nep,COLR-RKm225.3_01,Underwater mooring,28.3,45.60778,-122.0426
+COLR,nep,COLR-RKm22.5_01,Underwater mooring,3,46.19125,-123.85072
+COLR,nep,COLR-RKm22.5_02,Underwater mooring,7.9,46.19186,-123.85072
+COLR,nep,COLR-RKm22.5_03,Underwater mooring,20.4,46.19337,-123.85087
+COLR,nep,COLR-RKm22.5_04,Underwater mooring,30.5,46.19465,-123.85161
+COLR,nep,COLR-RKm22.5_05,Underwater mooring,14.9,46.19508,-123.85218
+COLR,nep,COLR-RKm22.5_06,Underwater mooring,1.2,46.1967,-123.85272
+COLR,nep,COLR-RKm22.5_07,Underwater mooring,NULL,46.19761,-123.85367
+COLR,nep,COLR-RKm22.5_08,Underwater mooring,NULL,46.19842,-123.85367
+COLR,nep,COLR-RKm22.5_09,Underwater mooring,NULL,46.19941,-123.85394
+COLR,nep,COLR-RKm22.5_41,Underwater mooring,6.4,46.22382,-123.86641
+COLR,nep,COLR-RKm22.5_10,Underwater mooring,NULL,46.20028,-123.85469
+COLR,nep,COLR-RKm22.5_11,Underwater mooring,NULL,46.2007,-123.85471
+COLR,nep,COLR-RKm22.5_12,Underwater mooring,NULL,46.20106,-123.85448
+COLR,nep,COLR-RKm22.5_13,Underwater mooring,0.9,46.20143,-123.85533
+COLR,nep,COLR-RKm22.5_33,Underwater mooring,5.8,46.21722,-123.86288
+COLR,nep,COLR-RKm22.5_59,Underwater mooring,21.3,46.23852,-123.87389
+COLR,nep,COLR-RKm22.5_14,Underwater mooring,NULL,46.20195,-123.85537
+COLR,nep,COLR-RKm223.7_02,Underwater mooring,24.7,45.60329,-122.06081
+COLR,nep,COLR-RKm22.5_16,Underwater mooring,0,46.20311,-123.8557
+COLR,nep,COLR-RKm22.5_17,Underwater mooring,0,46.20408,-123.85635
+COLR,nep,COLR-RKm22.5_18,Underwater mooring,0,46.20488,-123.85674
+COLR,nep,COLR-RKm22.5_19,Underwater mooring,0,46.20567,-123.85714
+COLR,nep,COLR-RKm22.5_20,Underwater mooring,0,46.20647,-123.85751
+COLR,nep,COLR-RKm22.5_21,Underwater mooring,0,46.20732,-123.85802
+COLR,nep,COLR-RKm22.5_22,Underwater mooring,0,46.20818,-123.85835
+COLR,nep,COLR-RKm22.5_23,Underwater mooring,0,46.209,-123.85879
+COLR,nep,COLR-RKm22.5_24,Underwater mooring,0,46.20977,-123.85924
+COLR,nep,COLR-RKm22.5_25,Underwater mooring,3,46.21065,-123.8597
+COLR,nep,COLR-RKm22.5_26,Underwater mooring,3,46.2115,-123.85988
+COLR,nep,COLR-RKm22.5_27,Underwater mooring,3.4,46.21225,-123.86035
+COLR,nep,COLR-RKm22.5_28,Underwater mooring,3.4,46.21317,-123.86076
+COLR,nep,COLR-RKm22.5_29,Underwater mooring,3.4,46.21412,-123.86131
+COLR,nep,COLR-RKm22.5_30,Underwater mooring,5.2,46.21472,-123.86177
+COLR,nep,COLR-RKm22.5_31,Underwater mooring,6.4,46.21561,-123.86177
+COLR,nep,COLR-RKm22.5_32,Underwater mooring,6.1,46.21663,-123.8625
+COLR,nep,COLR-RKm22.5_34,Underwater mooring,5.5,46.21803,-123.8635
+COLR,nep,COLR-RKm22.5_35,Underwater mooring,5.8,46.21897,-123.864
+COLR,nep,COLR-RKm22.5_36,Underwater mooring,8.2,46.21971,-123.86421
+COLR,nep,COLR-RKm22.5_37,Underwater mooring,8.8,46.22058,-123.86475
+COLR,nep,COLR-RKm22.5_38,Underwater mooring,7.9,46.22139,-123.86514
+COLR,nep,COLR-RKm22.5_39,Underwater mooring,6.7,46.22221,-123.86559
+COLR,nep,COLR-RKm22.5_40,Underwater mooring,6.7,46.223,-123.86598
+COLR,nep,COLR-RKm22.5_42,Underwater mooring,6.1,46.22467,-123.86679
+COLR,nep,COLR-RKm22.5_43,Underwater mooring,6.1,46.22545,-123.86731
+COLR,nep,COLR-RKm22.5_44,Underwater mooring,6.1,46.2263,-123.86766
+COLR,nep,COLR-RKm22.5_45,Underwater mooring,5.8,46.22717,-123.86812
+COLR,nep,COLR-RKm22.5_46,Underwater mooring,3.7,46.22793,-123.86848
+COLR,nep,COLR-RKm22.5_47,Underwater mooring,4.9,46.22887,-123.86918
+COLR,nep,COLR-RKm22.5_48,Underwater mooring,6.7,46.22963,-123.86938
+COLR,nep,COLR-RKm22.5_49,Underwater mooring,11.6,46.23039,-123.86983
+COLR,nep,COLR-RKm22.5_50,Underwater mooring,10.7,46.23082,-123.87008
+COLR,nep,COLR-RKm22.5_51,Underwater mooring,12.5,46.23173,-123.87057
+COLR,nep,COLR-RKm22.5_52,Underwater mooring,15.5,46.23253,-123.87093
+COLR,nep,COLR-RKm22.5_53,Underwater mooring,17.1,46.23314,-123.87122
+COLR,nep,COLR-RKm22.5_54,Underwater mooring,18.9,46.23394,-123.8715
+COLR,nep,COLR-RKm22.5_55,Underwater mooring,22.3,46.23485,-123.87198
+COLR,nep,COLR-RKm22.5_56,Underwater mooring,22.9,46.23572,-123.87248
+COLR,nep,COLR-RKm22.5_57,Underwater mooring,24.4,46.23674,-123.87303
+COLR,nep,COLR-RKm22.5_58,Underwater mooring,20.4,46.23756,-123.87325
+COLR,nep,COLR-RKm22.5_60,Underwater mooring,18.6,46.23954,-123.87424
+COLR,nep,COLR-RKm22.5_61,Underwater mooring,9.1,46.24051,-123.87495
+COLR,nep,COLR-RKm222.1_01,Underwater mooring,14,45.59295,-122.07965
+COLR,nep,COLR-RKm222.1_02,Underwater mooring,13,45.59673,-122.07875
+COLR,nep,COLR-RKm223.7_01,Underwater mooring,15.5,45.60124,-122.05756
+COLR,nep,COLR-RKm225.3_02,Underwater mooring,22.9,45.61043,-122.04369
+COLR,nep,COLR-RKm676_01,Underwater mooring,16.6,46.68279,-117.63104
+COLR,nep,COLR-RKm676_02,Underwater mooring,11.7,46.68377,-117.62903
+COLR,nep,COLR-RKm681_01,Underwater mooring,13.2,46.67708,-117.56815
+COLR,nep,COLR-RKm681_02,Underwater mooring,15,46.67856,-117.56833
+COLR,nep,COLR-RKm86.6_01,Underwater mooring,7.9,46.18307,-123.17229
+COLR,nep,COLR-RKm86.6_02,Underwater mooring,11.2,46.18485,-123.17393
+COLR,nep,COLR-RKm86.6_03,Underwater mooring,17.6,46.18803,-123.17374
+COLR,nep,COLR-RKm87.2_01,Underwater mooring,11.3,46.18721,-123.16747
+COLR,nep,COLR-RKm87.5_01,Underwater mooring,11.3,46.188,-123.16145
+COLR,nep,COLR-RKm87.5_02,Underwater mooring,18.7,46.19061,-123.16289
+COLR,nep,COLR-RKm339.6_01,Underwater mooring,11,45.68748,-120.78551
+COLR,nep,COLR-RKm339.6_02,Underwater mooring,20.3,45.68924,-120.78617
+COLR,nep,COLR-RKm341.2_01,Underwater mooring,11.5,45.68966,-120.77738
+COLR,nep,COLR-RKm341.2_02,Underwater mooring,15.2,45.69184,-120.77895
+COLR,nep,COLR-RKm350.8_01,Underwater mooring,31.1,45.73019,-120.65994
+COLR,nep,COLR-RKm350.8_03,Underwater mooring,36.6,45.73362,-120.66492
+COLR,nep,COLR-RKm350.8_04,Underwater mooring,34.7,45.73549,-120.66737
+COLR,nep,COLR-RKm7.7_01,Underwater mooring,8.2,46.2405,-124.00087
+COLR,nep,COLR-RKm7.7_02,Underwater mooring,12.8,46.2441,-124.00328
+COLR,nep,COLR-RKm7.7_03,Underwater mooring,19.2,46.24807,-124.00502
+COLR,nep,COLR-RKm7.7_04,Underwater mooring,22.9,46.25126,-124.00638
+COLR,nep,COLR-RKm7.7_05,Underwater mooring,23.8,46.25433,-124.00805
+COLR,nep,COLR-RKm7.7_06,Underwater mooring,29.3,46.25797,-124.0095
+COLR,nep,COLR-RKm7.7_07,Underwater mooring,13.2,46.2617,-124.01084
+COLR,nep,COLR-RKm7.7_08,Underwater mooring,9.5,46.26888,-124.00354
+COLR,nep,COLR-RKm7.7_09,Underwater mooring,21.9,46.26118,-124.01115
+COLR,nep,COLR-RKm8.8_01,Underwater mooring,7.3,46.23183,-123.99114
+COLR,nep,COLR-RKm8.8_02,Underwater mooring,14.6,46.23503,-123.98869
+COLR,nep,COLR-RKm8.8_03,Underwater mooring,12.4,46.23915,-123.98744
+COLR,nep,COLR-RKm8.8_04,Underwater mooring,8.6,46.24291,-123.98755
+COLR,nep,COLR-RKm8.8_05,Underwater mooring,9.5,46.24751,-123.98748
+COLR,nep,COLR-RKm8.8_06,Underwater mooring,20.1,46.25122,-123.98785
+COLR,nep,COLR-RKm8.8_07,Underwater mooring,17.9,46.25505,-123.98895
+COLR,nep,COLR-RKm8.8_08,Underwater mooring,7.9,46.25837,-123.98997
+COLR,nep,COLR-RKm8.8_09,Underwater mooring,7.5,46.25827,-123.98925
+COLR,nep,COLR-RKm497.3_01,Underwater mooring,15,45.99549,-118.98534
+COLR,nep,COLR-RKm497.3_02,Underwater mooring,19.4,45.99629,-118.98914
+COLR,nep,COLR-RKm497.3_03,Underwater mooring,11.7,45.99722,-118.99301
+COLR,nep,COLR-RKm497.3_04,Underwater mooring,15,45.9983,-118.99724
+COLR,nep,COLR-RKm503.7_01,Underwater mooring,16.3,46.04068,-118.94288
+COLR,nep,COLR-RKm503.7_02,Underwater mooring,14.1,46.04058,-118.94703
+COLR,nep,COLR-RKm503.7_03,Underwater mooring,13.9,46.04062,-118.94982
+COLR,nep,COLR-RKm503.7_04,Underwater mooring,10.2,46.04048,-118.95338
+COLR,nep,COLR-RKm350.8_02,Underwater mooring,38.4,45.7319,-120.66227
+COQT,nep,COQUITLAM001,Underwater mooring,5,49.35468,-122.77708
+COQT,nep,COQUITLAM002,Underwater mooring,3,49.35522,-122.77975
+COQT,nep,COQUITLAM003,Underwater mooring,15,49.36893,-122.78915
+COQT,nep,COQUITLAM004,Underwater mooring,27,49.3678,-122.79265
+COQT,nep,COQUITLAM005,Underwater mooring,42,49.3767,-122.80287
+COQT,nep,COQUITLAM006,Underwater mooring,43,49.40462,-122.78735
+COQT,nep,COQUITLAM007,Underwater mooring,135,49.40287,-122.78325
+COQT,nep,COQUITLAM008,Underwater mooring,13,49.4407,-122.77237
+COQT,nep,COQUITLAM009,Underwater mooring,87,49.4278,-122.76525
+COQT,nep,COQUITLAM010,Underwater mooring,79,49.42865,-122.771
+COQT,nep,COQUITLAM011,Underwater mooring,19,49.3641,-122.85433
+COWR,nep,COWICHAN001,Underwater mooring,0.9,48.77226,-123.68502
+COWR,nep,COWICHAN002,Underwater mooring,0.9,48.77199,-123.68654
+CPELIZ,nep,CAP_ELIZ001,Underwater mooring,4,47.39595,-124.3339
+CPELIZ,nep,CAP_ELIZ002,Underwater mooring,10,47.39428,-124.34475
+CPELIZ,nep,CAP_ELIZ003,Underwater mooring,14,47.39313,-124.35584
+CPELIZ,nep,CAP_ELIZ004,Underwater mooring,17,47.3903,-124.36655
+CPELIZ,nep,CAP_ELIZ005,Underwater mooring,19,47.3869,-124.37678
+CPELIZ,nep,CAP_ELIZ006,Underwater mooring,19,47.38388,-124.38752
+CPELIZ,nep,CAP_ELIZ007,Underwater mooring,19,47.38176,-124.39863
+CPELIZ,nep,CAP_ELIZ008,Underwater mooring,21,47.37771,-124.40855
+CPELIZ,nep,CAP_ELIZ009,Underwater mooring,24,47.37627,-124.41971
+CPELIZ,nep,CAP_ELIZ010,Underwater mooring,29,47.37539,-124.43096
+CPELIZ,nep,CAP_ELIZ011,Underwater mooring,32,47.37405,-124.44209
+CPELIZ,nep,CAP_ELIZ012,Underwater mooring,35,47.37234,-124.4532
+CULT,nep,SWELTZER001,Underwater mooring,0.5,49.07766,-121.97813
+ENGR,nep,ENGLISHMAN001,Underwater mooring,32,49.33667,-124.29803
+ENGR,nep,ENGLISHMAN002,Underwater mooring,32,49.33464,-124.30659
+ENGR,nep,ENGLISHMAN003,Underwater mooring,NULL,49.31011,-124.2836
+FRASER,nep,FRASER163,Underwater mooring,NULL,49.23553,-121.96431
+FRASER,nep,SOUTHARM-RKm21.2_02,Underwater mooring,4.5,49.16738,-122.93447
+FRASER,nep,DERBY-RKm51.3_03,Underwater mooring,15.5,49.20442,-122.5948
+FRASER,nep,DERBY-RKm51.3_04,Underwater mooring,11.9,49.20514,-122.59408
+FRASER,nep,MISSION-RKm79.7_01,Underwater mooring,4,49.13608,-122.27463
+FRASER,nep,MISSION-RKm79.7_02,Underwater mooring,4,49.14237,-122.27018
+FRASER,nep,NORTHARM-RKm21.6_01,Underwater mooring,4.8,49.19268,-122.95635
+FRASER,nep,PITT-RKm39_01,Underwater mooring,4,49.21235,-122.74247
+FRASER,nep,NORTHARM-RKm17.3_01,Underwater mooring,3,49.19002,-123.00149
+FRASER,nep,NORTHARM-RKm17.3_02,Underwater mooring,1.5,49.19116,-122.99898
+FRASER,nep,NORTHARM-RKm20.8_01,Underwater mooring,2.5,49.19605,-122.94683
+FRASER,nep,NORTHARM-RKm20.8_02,Underwater mooring,1.5,49.18814,-122.96454
+FRASER,nep,SOUTHARM-RKm21.2_01,Underwater mooring,3.5,49.16523,-122.93015
+FRASER,nep,SOUTHARM-RKm21.2_03,Underwater mooring,1.5,49.17523,-122.95373
+FRASER,nep,PITT-RKm39_02,Underwater mooring,6,49.21748,-122.74678
+FRASER,nep,PORT MANN-RKm31.7_01,Underwater mooring,15,49.21783,-122.83572
+FRASER,nep,SOUTHARM-RKm21.2_04,Underwater mooring,4,49.17644,-122.95535
+FRASER,nep,VEDDER001,Underwater mooring,3.4,49.14286,-122.16423
+FRASER,nep,VEDDER002,Underwater mooring,4.6,49.13172,-122.09554
+FRASER,nep,DERBY-RKm51.3_01,Underwater mooring,1.5,49.20158,-122.596
+FRASER,nep,NORTHARM-RKm17.8_01,Underwater mooring,3.7,49.18663,-122.99635
+FRASER,nep,FRASER164,Underwater mooring,NULL,49.29075,-121.881
+FRASER,nep,FRASER165,Underwater mooring,NULL,49.3155,-121.80394
+FRASER,nep,FRASER166,Underwater mooring,NULL,51.18544,-122.12569
+FRASER,nep,FRASER167,Underwater mooring,NULL,51.62772,-124.14219
+FRASER,nep,FRASER168,Underwater mooring,NULL,52.61369,-121.55792
+FRASER,nep,FRASER169,Underwater mooring,NULL,50.82889,-119.6955
+FRASER,nep,FRASER170,Underwater mooring,NULL,50.88597,-119.55531
+FRASER,nep,FRASER171,Underwater mooring,NULL,50.89108,-119.53592
+FRASER,nep,FRASER172,Underwater mooring,NULL,50.89736,-119.54708
+FRASER,nep,FRASER173,Underwater mooring,NULL,50.83703,-119.00133
+FRASER,nep,FRASER174,Underwater mooring,NULL,50.79381,-118.99961
+FRASER,nep,FRASER175,Underwater mooring,NULL,50.77028,-120.81306
+FRASER,nep,FRASER176,Underwater mooring,NULL,50.35892,-121.39719
+FRASER,nep,FRASER177,Underwater mooring,NULL,50.68403,-120.36144
+FRASER,nep,FRASER178,Underwater mooring,NULL,50.86864,-119.59897
+FRASER,nep,PORT MANN-RKm31.7_02,Underwater mooring,4,49.22137,-122.83256
+FRASER,nep,SOUTHARM-RKm20.5_05,Underwater mooring,7.3,49.17241,-122.96179
+FRASER,nep,SOUTHARM-RKm9.3_01,Underwater mooring,11.9,49.1217,-123.07061
+FRASER,nep,SOUTHARM-RKm9.3_02,Underwater mooring,14.6,49.12257,-123.07166
+FRASER,nep,SOUTHARM-RKm9.3_03,Underwater mooring,14.6,49.12349,-123.07258
+FRASER,nep,SOUTHARM-RKm9.3_04,Underwater mooring,14.6,49.12456,-123.07297
+FRASER,nep,SOUTHARM-RKm9.3_05,Underwater mooring,9.1,49.12545,-123.07381
+FRASER,nep,WHONNOCK-RKm60_01,Underwater mooring,3,49.16613,-122.48868
+FRASER,nep,WHONNOCK-RKm60_02,Underwater mooring,5,49.17022,-122.5046
+FRASER,nep,DERBY-RKm51.3_02,Underwater mooring,1.5,49.20415,-122.59087
+FRASER,nep,MISSION-RKm76.8_01,Underwater mooring,3.7,49.12766,-122.30298
+FRASER,nep,MISSION-RKm76.8_02,Underwater mooring,4.6,49.12325,-122.3004
+FRASER,nep,NORTHARM-RKm17.8_02,Underwater mooring,5.5,49.18792,-122.995
+FRASER,nep,NORTHARM-RKm22.3_01,Underwater mooring,3.7,49.19565,-122.94682
+FRASER,nep,NORTHARM-RKm22.3_02,Underwater mooring,1.8,49.19653,-122.94757
+FRASER,nep,SOUTHARM-RKm20.5_01,Underwater mooring,1.8,49.15918,-122.94018
+FRASER,nep,SOUTHARM-RKm20.5_02,Underwater mooring,14.6,49.16113,-122.9409
+FRASER,nep,SOUTHARM-RKm20.5_03,Underwater mooring,1.8,49.16315,-122.94167
+FRASER,nep,SOUTHARM-RKm20.5_04,Underwater mooring,9.1,49.17189,-122.96098
+FRASER,nep,SOUTHARM-RKm8.7_01,Underwater mooring,1.3,49.11707,-123.07924
+FRASER,nep,SOUTHARM-RKm8.7_02,Underwater mooring,1.1,49.1227,-123.08122
+FRASER,nep,MISSION-RKm77.1_02,Underwater mooring,7.626,49.12902,-122.29969
+FRASER,nep,RKm17.3_01,Underwater mooring,3,49.19002,-123.00149
+FRASER,nep,RKm17.3_02,Underwater mooring,1.5,49.19116,-122.99898
+FRASER,nep,RKm20.8_01,Underwater mooring,2.5,49.19605,-122.94683
+FRASER,nep,RKm20.8_02,Underwater mooring,1.5,49.18814,-122.96454
+FRASER,nep,RKm21.2_01,Underwater mooring,3.5,49.16523,-122.93015
+FRASER,nep,RKm21.2_02,Underwater mooring,4.5,49.16738,-122.93447
+FRASER,nep,RKm21.2_03,Underwater mooring,1.5,49.17523,-122.95373
+FRASER,nep,RKm21.2_04,Underwater mooring,4,49.17644,-122.95535
+FRASER,nep,RKm51.3_01,Underwater mooring,3.6,49.20163,-122.596
+FRASER,nep,RKm51.3_02,Underwater mooring,1.5,49.20354,-122.5901
+FRASER,nep,RKm76.8_01,Underwater mooring,5,49.12325,-122.3004
+FRASER,nep,RKm76.8_02,Underwater mooring,1.5,49.12766,-122.30298
+FRASER,nep,RKm79.7_01,Underwater mooring,0.305,49.139567,-122.268433
+FRASER,nep,RKm8.7_01,Underwater mooring,3.048,49.11718,-123.0792
+FRASER,nep,RKm8.7_02,Underwater mooring,2.5,49.12281,-123.08101
+FWS,nep,Alex Fraser Bridge,Underwater mooring,NULL,49.1632,-122.9417
+FWS,nep,Coquihalla/Hope 1,Underwater mooring,NULL,49.3798,-121.4797
+FWS,nep,Coquihalla/Hope 2,Underwater mooring,NULL,49.3996,-121.433
+FWS,nep,Debris trap downstream,Underwater mooring,NULL,49.3247,-121.6378
+FWS,nep,Harrison,Underwater mooring,NULL,49.2343,-121.9581
+FWS,nep,Harrison 2,Underwater mooring,NULL,49.2619,-121.9173
+FWS,nep,Harrison Upstream,Underwater mooring,NULL,49.2264,-121.9009
+FWS,nep,Herrling 1,Underwater mooring,NULL,49.2155,-121.7055
+FWS,nep,Herrling 2,Underwater mooring,NULL,49.2523,-121.6824
+FWS,nep,Hunter Creek,Underwater mooring,NULL,49.3612,-121.5684
+FWS,nep,Hunter mouth,Underwater mooring,NULL,49.3599,-121.5721
+FWS,nep,Hwy 11,Underwater mooring,NULL,49.1248,-122.3098
+FWS,nep,Hwy 11(2),Underwater mooring,NULL,49.1248,-122.3108
+FWS,nep,Jespersons 1,Underwater mooring,NULL,49.2144,-121.8788
+FWS,nep,Jespersons 2,Underwater mooring,NULL,49.2097,-121.8439
+FWS,nep,lower canyon,Underwater mooring,NULL,49.4488,-121.4148
+FWS,nep,Lower canyon,Underwater mooring,NULL,49.4488,-121.4148
+FWS,nep,Pitt 1,Underwater mooring,NULL,49.2471,-122.7289
+FWS,nep,Ruby 1,Underwater mooring,NULL,49.3553,-121.6031
+FWS,nep,Ruby 2,Underwater mooring,NULL,49.3592,-121.5953
+FWS,nep,Ruby 3,Underwater mooring,NULL,49.3563,-121.5847
+FWS,nep,Seabird 1,Underwater mooring,NULL,49.2933,-121.6783
+FWS,nep,Seabird 2,Underwater mooring,NULL,49.3004,-121.6795
+FWS,nep,Stave 1,Underwater mooring,NULL,49.1734,-122.443
+FWS,nep,Stave 2,Underwater mooring,NULL,49.1652,-122.4252
+FWS,nep,Vedder,Underwater mooring,NULL,49.139,-122.1881
+FWS,nep,Bar 289,Underwater mooring,NULL,49.41178,-121.41904
+FWS,nep,Bristol Island,Underwater mooring,NULL,49.37975,-121.47965
+FWS,nep,Canoe Pass,Underwater mooring,NULL,49.08084,-123.130007
+FWS,nep,Coquihalla Side Channel,Underwater mooring,NULL,49.395774,-121.4355
+FWS,nep,Floods Hope Bar,Underwater mooring,NULL,49.36769,-121.52214
+FWS,nep,Hamilton Bar,Underwater mooring,NULL,49.23094,-121.63456
+FWS,nep,Harrison Lake,Underwater mooring,NULL,49.30702,-121.80919
+FWS,nep,Hunter Creek alternate,Underwater mooring,NULL,49.361327,-121.568219
+FWS,nep,Hunter Creek Downstream,Underwater mooring,NULL,49.35625,-121.58468
+FWS,nep,Lion Island,Underwater mooring,NULL,49.15741,-123.00086
+FWS,nep,Lower canyon alternate,Underwater mooring,NULL,49.448864,-121.414737
+FWS,nep,MacMillan Isle Downstream,Underwater mooring,NULL,49.18865,-122.58859
+FWS,nep,Massey Tunnel,Underwater mooring,NULL,49.12275,-123.08118
+FWS,nep,Massey Tunnel alternate,Underwater mooring,NULL,49.12275,-123.08118
+FWS,nep,Minto Side channel,Underwater mooring,NULL,49.20436,-121.94774
+FWS,nep,Mountain Bar,Underwater mooring,NULL,49.21548,-121.95694
+FWS,nep,North Arm,Underwater mooring,NULL,49.19706,-122.93998
+FWS,nep,Pitt 2,Underwater mooring,NULL,49.35214,-122.61488
+FWS,nep,Seabird Downstream,Underwater mooring,NULL,49.25549,-121.96771
+FWS,nep,Stave 1 alternate,Underwater mooring,NULL,49.17348,-122.45481
+FWS,nep,Vedder alternate,Underwater mooring,NULL,49.13902,-122.18813
+FWS,nep,Coquihalla Island Upstream,Underwater mooring,NULL,49.39973,-121.42599
+FWS,nep,Douglas Island South,Underwater mooring,NULL,49.214967,-122.77087
+FWS,nep,FH Barber,Underwater mooring,NULL,49.22977,-121.94494
+FWS,nep,Green Wood Island,Underwater mooring,NULL,49.37396,-121.4483
+FWS,nep,Harrison Hot Springs,Underwater mooring,NULL,49.30203,-121.81588
+FWS,nep,Harrison Mills,Underwater mooring,NULL,49.2475,-121.94379
+FWS,nep,Harrison River #1,Underwater mooring,NULL,49.279483,-121.91092
+FWS,nep,Harrison River #2,Underwater mooring,NULL,49.269567,-121.90782
+FWS,nep,Harrison River #3,Underwater mooring,NULL,49.29445,-121.86242
+FWS,nep,Herling DS,Underwater mooring,NULL,49.207117,-121.739689
+FWS,nep,Herling US,Underwater mooring,NULL,49.20555,-121.777417
+FWS,nep,Jesperson DS,Underwater mooring,NULL,49.21858,-121.88139
+FWS,nep,Jesperson US,Underwater mooring,NULL,49.214883,-121.82111
+FWS,nep,Mid Pitt River,Underwater mooring,NULL,49.292433,-122.65833
+FWS,nep,Pitt - Fraser Confluence,Underwater mooring,NULL,49.257983,-122.71802
+FWS,nep,Seabird Island,Underwater mooring,NULL,49.221433,-121.70754
+FWS,nep,Stave 1b,Underwater mooring,NULL,49.17355,-122.45337
+FWS,nep,Sumas - Fraser Confluence,Underwater mooring,NULL,49.1959,-121.97485
+FWS,nep,Upper Pitt River,Underwater mooring,NULL,49.351767,-122.61455
+GRAVES,nep,GRAVES_H001,Underwater mooring,16,58.40891,-137.14728
+GRAVES,nep,GRAVES_H002,Underwater mooring,31,58.40352,-137.15704
+GRAVES,nep,GRAVES_H003,Underwater mooring,82,58.39844,-137.16795
+GRAVES,nep,GRAVES_H004,Underwater mooring,110,58.39365,-137.17938
+GRAVES,nep,GRAVES_H005,Underwater mooring,135,58.38872,-137.19046
+GRAVES,nep,GRAVES_H006,Underwater mooring,154,58.38337,-137.20093
+GRAVES,nep,GRAVES_H007,Underwater mooring,168,58.37799,-137.21106
+GRAVES,nep,GRAVES_H008,Underwater mooring,173,58.3728,-137.22182
+GRAVES,nep,GRAVES_H009,Underwater mooring,167,58.36762,-137.23294
+GRAVES,nep,GRAVES_H010,Underwater mooring,152,58.36302,-137.24515
+GRAVES,nep,GRAVES_H011,Underwater mooring,172,58.35879,-137.25769
+GRAVES,nep,GRAVES_H012,Underwater mooring,183,58.35395,-137.26872
+GRAVES,nep,GRAVES_H013,Underwater mooring,188,58.34781,-137.27986
+GRAVES,nep,GRAVES_H014,Underwater mooring,122.5,58.20818,-136.85947
+GRAVES,nep,GRAVES_H015,Underwater mooring,146.3,58.20271,-136.86929
+GRAVES,nep,GRAVES_H016,Underwater mooring,157.3,58.19721,-136.87898
+GRAVES,nep,GRAVES_H017,Underwater mooring,168.2,58.1913,-136.88785
+GRAVES,nep,GRAVES_H018,Underwater mooring,179.2,58.18505,-136.89624
+GRAVES,nep,GRAVES_H019,Underwater mooring,188.4,58.17916,-136.90492
+GRAVES,nep,GRAVES_H020,Underwater mooring,197.5,58.17328,-136.9124
+GRAVES,nep,GRAVES_H021,Underwater mooring,203,58.16856,-136.91518
+GRAVES,nep,GRAVES_H022,Underwater mooring,210.3,58.16158,-136.91978
+GRAVES,nep,GRAVES_H023,Underwater mooring,210.3,58.15865,-136.92458
+GRAVN,nep,Port Gravina001,Underwater mooring,17,60.6513,-146.27072
+GRAVN,nep,Port Gravina012,Underwater mooring,17,60.68885,-146.39118
+GRAVN,nep,Port Gravina015,Underwater mooring,15.9,60.6426,-146.28735
+GRAVN,nep,Port Gravina016,Underwater mooring,11.6,60.68885,-146.32343
+GRAVN,nep,Port Gravina017,Underwater mooring,14.6,60.6923,-146.32127
+GRAVN,nep,Port Gravina018,Underwater mooring,18.9,60.6637,-146.2525
+GRAVN,nep,Port Gravina019,Underwater mooring,13.4,60.67207,-146.23412
+GRAVN,nep,Port Gravina020,Underwater mooring,18.3,60.6667,-146.25855
+GRAVN,nep,Port Gravina021,Underwater mooring,13.7,60.6686,-146.2485
+GRAVN,nep,Port Gravina022,Underwater mooring,18.3,60.67312,-146.22983
+GRAVN,nep,Port Gravina010,Underwater mooring,58.5,60.68245,-146.36933
+GRAVN,nep,Port Gravina011,Underwater mooring,42.7,60.68627,-146.38077
+GRAVN,nep,Port Gravina013,Underwater mooring,7,60.69057,-146.39893
+GRAVN,nep,Port Gravina014,Underwater mooring,18.3,60.67235,-146.23873
+GRAVN,nep,Port Gravina002,Underwater mooring,47.3,60.65167,-146.27803
+GRAVN,nep,Port Gravina023,Underwater mooring,15.2,60.62416,-146.21777
+GRAVN,nep,Port Gravina003,Underwater mooring,68.6,60.65563,-146.28922
+GRAVN,nep,Port Gravina004,Underwater mooring,118.9,60.65947,-146.30067
+GRAVN,nep,Port Gravina005,Underwater mooring,130.5,60.6633,-146.3121
+GRAVN,nep,Port Gravina006,Underwater mooring,127.7,60.66713,-146.32355
+GRAVN,nep,Port Gravina007,Underwater mooring,124.7,60.67095,-146.335
+GRAVN,nep,Port Gravina008,Underwater mooring,89.9,60.67478,-146.346
+GRAVN,nep,Port Gravina009,Underwater mooring,71,60.67862,-146.35788
+HOWE,nep,HS_IN001,Underwater mooring,190,49.59388,-123.22941
+HOWE,nep,HS_IN002,Underwater mooring,283,49.59565,-123.23552
+HOWE,nep,HS_IN004,Underwater mooring,280,49.59982,-123.25163
+HOWE,nep,HS_IN003,Underwater mooring,282,49.59722,-123.24008
+HOWE,nep,HS_OUT001,Underwater mooring,115,49.4714,-123.25158
+HOWE,nep,HS_OUT002,Underwater mooring,220,49.46955,-123.26128
+HOWE,nep,HS_OUT003,Underwater mooring,249,49.4688,-123.27065
+HOWE,nep,HS_OUT004,Underwater mooring,249,49.46747,-123.2803
+HOWE,nep,HS_OUT005,Underwater mooring,240,49.46727,-123.29053
+HOWE,nep,HS_OUT006,Underwater mooring,240,49.46632,-123.3007
+HOWE,nep,HS_OUT007,Underwater mooring,200,49.46605,-123.31087
+HOWE,nep,HS_OUT008,Underwater mooring,151,49.47352,-123.46145
+HOWE,nep,HS_OUT009,Underwater mooring,173,49.4786,-123.46608
+HOWE,nep,HS_OUT010,Underwater mooring,177,49.48202,-123.4684
+HOWE,nep,HS_OUT011,Underwater mooring,124.4,49.48209,-123.47069
+HWI,nep,HLW-END,Underwater mooring,NULL,NULL,NULL
+HWI,nep,KNH-END,Underwater mooring,NULL,NULL,NULL
+HWI,nep,WKE-END,Underwater mooring,NULL,NULL,NULL
+HWI,nep,WKW-END,Underwater mooring,NULL,NULL,NULL
+HWI,nep,HLW-START,Underwater mooring,NULL,NULL,NULL
+HWI,nep,KNH-START,Underwater mooring,NULL,NULL,NULL
+HWI,nep,WKE-START,Underwater mooring,NULL,NULL,NULL
+HWI,nep,WKW-START,Underwater mooring,NULL,NULL,NULL
+HWI,nep,WAIKIKI WEST DEEP,Underwater mooring,183,21.27442,-157.89825
+HWI,nep,WAIKIKI WEST SHALLOW,Underwater mooring,37,21.28347,-157.8932
+HWI,nep,WAIKIKI EAST DEEP,Underwater mooring,183,21.2716,-157.86293
+HWI,nep,WAIKIKI WEST MIDDLE,Underwater mooring,73,21.28035,-157.89583
+HWI,nep,WAIKIKI EAST MIDDLE,Underwater mooring,73,21.27402,-157.85913
+HWI,nep,FFS-FFS SE MESO,Underwater mooring,NULL,23.61809,-166.13956
+HWI,nep,FFS-FFS SW MESO,Underwater mooring,NULL,23.63191,-166.20595
+HWI,nep,FFS-RAPTURE MESO,Underwater mooring,NULL,23.63033,-166.18883
+HWI,nep,FFS-RAPTURE REEF,Underwater mooring,NULL,23.63509,-166.1857
+HWI,nep,MAUI-KAANAPALI DEEP,Underwater mooring,NULL,20.92041,-156.74126
+HWI,nep,MAUI-KAHULUI DEEP,Underwater mooring,NULL,20.94734,-156.455
+HWI,nep,MAUI-KALAMA DEEP,Underwater mooring,NULL,20.71473,-156.48593
+HWI,nep,MAUI-KALAMA SHALLOW,Underwater mooring,NULL,20.72546,-156.45827
+HWI,nep,MAUI-OLOWALU DEEP,Underwater mooring,NULL,20.76218,-156.62425
+HWI,nep,MAUI-OLOWALU SHALLOW,Underwater mooring,NULL,20.80102,-156.61725
+HWI,nep,MAUI-PALAUEA DEEP,Underwater mooring,NULL,20.66659,-156.46616
+HWI,nep,MAUI-PALAUEA SHALLOW,Underwater mooring,NULL,20.66983,-156.44591
+HWI,nep,MAUI-WAIEHU SHALLOW,Underwater mooring,NULL,20.90974,-156.47993
+HWI,nep,OAHU-COCONUT - HIMB SE,Underwater mooring,NULL,21.43453,-157.78382
+HWI,nep,OAHU-GR5,Underwater mooring,NULL,21.49908,-157.82785
+HWI,nep,OAHU-KANEOHE MIDBAY,Underwater mooring,NULL,21.46295,-157.81978
+HWI,nep,OAHU-KIPAPA DEEP,Underwater mooring,NULL,21.50922,-157.76558
+HWI,nep,OAHU-KIPAPA MEDIUM,Underwater mooring,NULL,21.49728,-157.77423
+HWI,nep,OAHU-KIPAPA SHALLOW,Underwater mooring,NULL,21.49008,-157.7788
+HWI,nep,OAHU-LILIPUNA,Underwater mooring,NULL,21.43198,-157.79348
+HWI,nep,OAHU-MOKU MANU,Underwater mooring,NULL,21.50158,-157.79359
+HWI,nep,OAHU-NORTH SHORE SHARK ADVENTURES BUOY,Underwater mooring,NULL,21.62013,-158.15256
+HWI,nep,OAHU-REEF 44,Underwater mooring,NULL,21.4767,-157.8299
+HWI,nep,OAHU-SUNSET BEACH,Underwater mooring,NULL,21.6771,-158.04376
+HWI,nep,OAHU-ULUA BARGE,Underwater mooring,NULL,21.52571,-157.81158
+HWI,nep,OAHU-WAIKIKI EAST DEEP,Underwater mooring,NULL,21.2714,-157.35452
+HWI,nep,OAHU-WAIKIKI EAST MID,Underwater mooring,NULL,21.27365,-157.35456
+HWI,nep,OAHU-WAIKIKI EAST SHALLOW,Underwater mooring,NULL,21.27628,-157.85495
+HWI,nep,OAHU-WAIKIKI WEST DEEP,Underwater mooring,NULL,21.27448,-157.89993
+HWI,nep,OAHU-WAIKIKI WEST MID,Underwater mooring,NULL,21.28025,-157.89535
+HWI,nep,OAHU-WAIKIKI WEST SHALLOW,Underwater mooring,NULL,21.2833,-157.89308
+HWI,nep,PHR-MESO MID CHANNEL,Underwater mooring,NULL,27.78388,-175.85747
+HWI,nep,Kahuui Mid,Underwater mooring,NULL,20.92818,-156.45049
+HWI,nep,Main Channel - West Side,Underwater mooring,NULL,27.79091667,-175.863
+HWI,nep,Meso Mid Ledge,Underwater mooring,NULL,27.76528,-175.89598
+HWI,nep,Outer North K Bay,Underwater mooring,NULL,21.50165,-157.79363
+HWI,nep,Pailolo,Underwater mooring,NULL,21.126429,-156.703885
+HWI,nep,Palauea Deep,Underwater mooring,NULL,20.66627,-156.46614
+HWI,nep,SE Channel,Underwater mooring,NULL,27.78701667,-175.8362333
+HWI,nep,Turtle Cave,Underwater mooring,NULL,21.473889,-157.778611
+HWI,nep,Waikiki West Mid,Underwater mooring,NULL,21.28,-157.89531
+INDARM,nep,IND_ARM001,Underwater mooring,18.3,49.29152,-122.95393
+INDARM,nep,IND_ARM002,Underwater mooring,42.1,49.29737,-122.95556
+JDF,nep,NJDF011,Underwater mooring,165,48.3222,-123.9934
+JDF,nep,NJDF012,Underwater mooring,170,48.3168,-124.0002
+JDF,nep,NJDF013,Underwater mooring,177,48.3115,-124.0069
+JDF,nep,NJDF014,Underwater mooring,184,48.3059,-124.0133
+JDF,nep,NJDF015,Underwater mooring,184,48.3006,-124.0202
+JDF,nep,NJDF016,Underwater mooring,190,48.2952,-124.0269
+JDF,nep,NJDF017,Underwater mooring,190,48.2897,-124.0337
+JDF,nep,NJDF018,Underwater mooring,185,48.2844,-124.0405
+JDF,nep,NJDF019,Underwater mooring,182,48.2789,-124.0469
+JDF,nep,NJDF020,Underwater mooring,180,48.2735,-124.0536
+JDF,nep,NJDF021,Underwater mooring,180,48.2681,-124.0603
+JDF,nep,NJDF022,Underwater mooring,170,48.2626,-124.0669
+JDF,nep,NJDF023,Underwater mooring,170,48.2572,-124.0737
+JDF,nep,NJDF024,Underwater mooring,150,48.2463,-124.0871
+JDF,nep,NJDF025,Underwater mooring,133,48.2518,-124.0802
+JDF,nep,NJDF026,Underwater mooring,150,48.241,-124.0938
+JDF,nep,NJDF027,Underwater mooring,147,48.2355,-124.1005
+JDF,nep,NJDF028,Underwater mooring,130,48.2302,-124.1072
+JDF,nep,NJDF029,Underwater mooring,70,48.2246,-124.1141
+JDF,nep,JDF031,Underwater mooring,54.9,48.22032,-124.10104
+JDF,nep,JDF005,Underwater mooring,120,48.3559,-123.95138
+JDF,nep,JDF008,Underwater mooring,140,48.33848,-123.97333
+JDF,nep,JDF009,Underwater mooring,152,48.33168,-123.97857
+JDF,nep,JDF010,Underwater mooring,165,48.32558,-123.98545
+JDF,nep,JDF012,Underwater mooring,174,48.313,-123.9994
+JDF,nep,JDF017,Underwater mooring,189,48.27874,-124.03619
+JDF,nep,JDF020,Underwater mooring,182,48.26402,-124.06326
+JDF,nep,JDF021,Underwater mooring,176,48.25927,-124.07282
+JDF,nep,JDF027,Underwater mooring,71,48.22396,-124.11169
+JDF,nep,JDF028,Underwater mooring,151.8,48.23439,-124.0826
+JDF,nep,JDF-ST01,Underwater mooring,140,48.33667,-123.96877
+JDF,nep,JDF-ST02,Underwater mooring,140,48.33487,-123.97104
+JDF,nep,JDF016,Underwater mooring,190,48.28286,-124.02527
+JDF,nep,JDF018,Underwater mooring,182,48.27439,-124.04577
+JDF,nep,NJDF001,Underwater mooring,15,48.3764,-123.9261
+JDF,nep,NJDF002,Underwater mooring,80,48.3711,-123.933
+JDF,nep,NJDF003,Underwater mooring,105,48.3656,-123.9397
+JDF,nep,NJDF004,Underwater mooring,115,48.3602,-123.9463
+JDF,nep,NJDF005,Underwater mooring,120,48.3548,-123.9529
+JDF,nep,NJDF006,Underwater mooring,130,48.3493,-123.9597
+JDF,nep,NJDF007,Underwater mooring,135,48.344,-123.9664
+JDF,nep,NJDF008,Underwater mooring,140,48.3385,-123.9731
+JDF,nep,NJDF009,Underwater mooring,145,48.3332,-123.9798
+JDF,nep,NJDF010,Underwater mooring,160,48.3277,-123.9866
+JDF,nep,JDF001,Underwater mooring,43,48.37382,-123.92098
+JDF,nep,JDF002,Underwater mooring,63,48.3721,-123.92668
+JDF,nep,JDF003,Underwater mooring,107,48.36703,-123.93523
+JDF,nep,JDF004,Underwater mooring,110,48.36168,-123.94363
+ABO,OTN-Global,Baff01-01,Underwater mooring,700,71.9783,-71.4421
+ABO,OTN-Global,Baff01-02,Underwater mooring,900,72.0093,-71.3446
+ABO,OTN-Global,Baff01-03,Underwater mooring,1100,72.0422,-71.2405
+ABO,OTN-Global,Baff03-01,Underwater mooring,702,70.6832,-66.8139
+ABO,OTN-Global,Baff03-02,Underwater mooring,900,70.687,-66.7662
+ABO,OTN-Global,Baff03-03,Underwater mooring,1100,70.6934,-66.6869
+ABO,OTN-Global,Baff04-01,Underwater mooring,1100,68.9778,-64.0851
+ABO,OTN-Global,Baff04-02,Underwater mooring,900,68.9788,-64.1834
+ABO,OTN-Global,Baff04-03,Underwater mooring,700,68.9788,-64.2561
+ABO,OTN-Global,Baff06-01,Underwater mooring,589,67.6442,-62.4104
+ABO,OTN-Global,Baff06-02,Underwater mooring,1000,67.6863,-62.3711
+ABO,OTN-Global,Baff06-03,Underwater mooring,1034,67.7546,-62.3085
+ABO,OTN-Global,Baff07-01,Underwater mooring,997,66.8398,-59.4322
+ABO,OTN-Global,Baff07-02,Underwater mooring,859,66.7164,-59.6917
+ABO,OTN-Global,Baff07-03,Underwater mooring,651,66.5973,-59.9616
+ABO,OTN-Global,Nar01-01,Underwater mooring,1116,68.1608,-59.7771
+ABO,OTN-Global,Nar01-02,Underwater mooring,1024,68.1631,-59.7416
+ABO,OTN-Global,Nar01-03,Underwater mooring,972,68.1646,-59.7192
+ABO,OTN-Global,Nar01-04,Underwater mooring,702,68.1697,-59.6212
+ABO,OTN-Global,Nar02-01,Underwater mooring,1085,67.8498,-59.3662
+ABO,OTN-Global,Nar02-02,Underwater mooring,934,67.8575,-59.3253
+ABO,OTN-Global,Nar02-03,Underwater mooring,815,67.8647,-59.2984
+ABO,OTN-Global,Nar02-04,Underwater mooring,647,67.8774,-59.2457
+ABO,OTN-Global,Nar03-01,Underwater mooring,1104,67.6398,-58.9723
+ABO,OTN-Global,Nar03-02,Underwater mooring,1019,67.6475,-58.9476
+ABO,OTN-Global,Nar03-03,Underwater mooring,875,67.6559,-58.9188
+ABO,OTN-Global,Nar03-04,Underwater mooring,709,67.6657,-58.8859
+ABO,OTN-Global,Nar04-01,Underwater mooring,1100,67.4064,-58.4661
+ABO,OTN-Global,Nar04-02,Underwater mooring,1002,67.4363,-58.3335
+ABO,OTN-Global,Nar04-03,Underwater mooring,905,67.4538,-58.2862
+ABO,OTN-Global,Nar04-04,Underwater mooring,701,67.4741,-58.2206
+ABO,OTN-Global,Nar05-01,Underwater mooring,952,67.25,-60.5
+ABO,OTN-Global,Nar05-02,Underwater mooring,990,67.2495,-60.3825
+ABO,OTN-Global,Nar05-03,Underwater mooring,1024,67.2504,-60.2548
+ACB,OTN-Global,ACB001,Underwater mooring,9.5,68.9393,-108.5106
+ACB,OTN-Global,ACB003,Underwater mooring,1.5,69.1753,-107.1322
+ACB,OTN-Global,ACB004,Underwater mooring,8,69.1513,-107.0895
+ACB,OTN-Global,ACB005,Underwater mooring,8,69.1444,-107.0526
+ACB,OTN-Global,ACB006,Underwater mooring,11,69.4628,-106.6969
+ACB,OTN-Global,ACB007,Underwater mooring,14,69.3983,-106.3289
+ACB,OTN-Global,ACB008,Underwater mooring,9.6,69.4052,-106.3515
+ACB,OTN-Global,ACB009,Underwater mooring,10,69.4009,-105.1558
+ACB,OTN-Global,ACB010,Underwater mooring,3.8,69.4053,-106.3001
+ACB,OTN-Global,ACB011,Underwater mooring,6,69.2519,-105.8271
+ACB,OTN-Global,ACB012,Underwater mooring,40,69.1138,-105.0355
+ACB,OTN-Global,ACB013,Underwater mooring,8.3,69.0228,-107.2993
+ACB,OTN-Global,ACB014,Underwater mooring,23.5,69.0222,-107.2742
+ACB,OTN-Global,ACB015,Underwater mooring,8.5,69.3721,-106.7769
+ACB,OTN-Global,ACB016,Underwater mooring,20,69.37,-106.7425
+ACB,OTN-Global,ACB017,Underwater mooring,8.8,69.4651,-106.4652
+ACB,OTN-Global,ACB018,Underwater mooring,9,69.4593,-106.4805
+ACB,OTN-Global,ACB019,Underwater mooring,7.2,69.3462,-106.3219
+ACB,OTN-Global,ACB020,Underwater mooring,9.2,69.3473,-106.3525
+ACB,OTN-Global,ACB021,Underwater mooring,22,69.1464,-105.9717
+ACB,OTN-Global,ACB022,Underwater mooring,20,69.1407,-105.9854
+ACB,OTN-Global,ACB023,Underwater mooring,25,69.088,-105.299
+ACB,OTN-Global,ACB024,Underwater mooring,48,69.0832,-105.3231
+ACB,OTN-Global,ACB025,Underwater mooring,12.4,69.2508,-106.8852
+ACB,OTN-Global,ACB026,Underwater mooring,21.5,69.2501,-106.8553
+ACB,OTN-Global,ACB027,Underwater mooring,41,69.249,-106.823
+ACB,OTN-Global,ACB028,Underwater mooring,60.3,69.2481,-106.7959
+ACB,OTN-Global,ACB029,Underwater mooring,63,69.2474,-106.7686
+ACB,OTN-Global,ACB030,Underwater mooring,64,69.246,-106.7423
+ACB,OTN-Global,ACB031,Underwater mooring,59.6,69.2453,-106.7134
+ACB,OTN-Global,ACB032,Underwater mooring,49.4,69.2442,-106.683
+ACB,OTN-Global,ACB033,Underwater mooring,59.6,69.2432,-106.6549
+ACB,OTN-Global,ACB034,Underwater mooring,63.2,69.2425,-106.6283
+ACB,OTN-Global,ACB035,Underwater mooring,48,69.2414,-106.5986
+ACB,OTN-Global,ACB036,Underwater mooring,40.5,69.2405,-106.5658
+ACB,OTN-Global,ACB037,Underwater mooring,45,69.2393,-106.5379
+ACB,OTN-Global,ACB038,Underwater mooring,47,69.2385,-106.5105
+ACB,OTN-Global,ACB039,Underwater mooring,37.4,69.2372,-106.4779
+ACB,OTN-Global,ACB040,Underwater mooring,36,69.2363,-106.4444
+ACB,OTN-Global,ACB041,Underwater mooring,15.3,69.2355,-106.4142
+ACB,OTN-Global,ACB042,Underwater mooring,8,69.1544,-107.078
+ACB,OTN-Global,ACB043,Underwater mooring,7.4,69.4142,-106.1748
+ACB,OTN-Global,ACB070,Underwater mooring,5.6,69.4631,-105.5118
+ACB,OTN-Global,ACB069,Underwater mooring,10.3,69.4595,-104.6015
+ACB,OTN-Global,ACB044,Underwater mooring,45.3,69.2374,-106.4863
+ACB,OTN-Global,ACB045,Underwater mooring,45,69.2388,-106.5279
+ACB,OTN-Global,ACB046,Underwater mooring,42.2,69.2405,-106.5697
+ACB,OTN-Global,ACB047,Underwater mooring,56,69.2416,-106.6118
+ACB,OTN-Global,ACB048,Underwater mooring,59.9,69.2431,-106.6546
+ACB,OTN-Global,ACB049,Underwater mooring,53.1,69.2447,-106.6962
+ACB,OTN-Global,ACB050,Underwater mooring,62.7,69.2457,-106.7366
+ACB,OTN-Global,ACB051,Underwater mooring,64.1,69.2476,-106.7793
+ACB,OTN-Global,ACB052,Underwater mooring,44.3,69.2489,-106.8199
+ACB,OTN-Global,ACB053,Underwater mooring,8.5,69.4864,-104.3379
+ACB,OTN-Global,ACB054,Underwater mooring,7,69.554,-104.1778
+ACB,OTN-Global,ACB055,Underwater mooring,6,69.7241,-104.4968
+ACB,OTN-Global,ACB056,Underwater mooring,9,69.8725,-104.8563
+ACB,OTN-Global,ACB057,Underwater mooring,6.5,69.7699,-104.3603
+ACB,OTN-Global,ACB058,Underwater mooring,9.3,69.4412,-106.6698
+ACB,OTN-Global,ACB059,Underwater mooring,13,69.4387,-106.6944
+ACB,OTN-Global,ACB060,Underwater mooring,8,69.1504,-107.0775
+ACB,OTN-Global,ACB061,Underwater mooring,NULL,69.3743,-105.0409
+ACB,OTN-Global,ACB062,Underwater mooring,3.8,69.4029,-106.2958
+ACB,OTN-Global,ACB063,Underwater mooring,4,69.4172,-106.1406
+ACB,OTN-Global,ACB064,Underwater mooring,6,69.3657,-106.0173
+ACB,OTN-Global,ACB065,Underwater mooring,5.5,69.392,-105.7693
+ACB,OTN-Global,ACB066,Underwater mooring,7.3,69.3287,-104.8042
+ACB,OTN-Global,ACB067,Underwater mooring,22.1,69.3973,-104.5619
+ACB,OTN-Global,ACB068,Underwater mooring,20.6,69.4049,-104.5739
+ACB,OTN-Global,ACB071,Underwater mooring,5,69.4727,-105.8375
+ACB,OTN-Global,ACB072,Underwater mooring,16.4,69.4335,-105.1671
+ACB,OTN-Global,ACB073,Underwater mooring,21.2,69.4262,-105.1615
+ACB,OTN-Global,ACB074,Underwater mooring,50,69.4181,-105.1573
+ACB,OTN-Global,ACB075,Underwater mooring,32,69.4098,-105.1471
+ACB,OTN-Global,ACB076,Underwater mooring,4,69.5283,-106.9399
+ACB,OTN-Global,ACB-ST01,Underwater mooring,NULL,69.5309,-106.9513167
+ACB,OTN-Global,ACB-ST02,Underwater mooring,NULL,69.24453,-106.68295
+ACB,OTN-Global,ACB-ST03,Underwater mooring,NULL,69.40258,-106.34234
+ACS,OTN-Global,ACS-SB1,Underwater mooring,1500,65.6311,-65.9246
+ACS,OTN-Global,ACS-SD3,Underwater mooring,1500,65.3568,-65.7087
+ACS,OTN-Global,Satellite-2011-Ring Seal,Underwater mooring,NULL,65.968,-66.35
+ACS,OTN-Global,ACS-SD2,Underwater mooring,1500,65.3492,-65.7479
+ACS,OTN-Global,ACS010,Underwater mooring,227,65.96793,-66.35099
+ACS,OTN-Global,ACS-SE2,Underwater mooring,960,65.2377,-65.5144
+ACS,OTN-Global,ACS-SD1,Underwater mooring,1500,65.3415,-65.7868
+ACS,OTN-Global,ACS-WG3,Underwater mooring,249,65.9867,-66.4388
+ACS,OTN-Global,ACS001,Underwater mooring,177.4,66.01957,-66.61344
+ACS,OTN-Global,ACS-WA4R1,Underwater mooring,275,66.1768,-66.7763
+ACS,OTN-Global,ACS011,Underwater mooring,271,65.96146,-66.3215
+ACS,OTN-Global,ACS-SA1,Underwater mooring,1500,65.8266,-66.1373
+ACS,OTN-Global,ACS-WG4,Underwater mooring,431,65.9764,-66.4685
+ACS,OTN-Global,ACS-ST01,Underwater mooring,234,65.96471167,-66.33651833
+ACS,OTN-Global,ACS-ST02,Underwater mooring,265,65.96625667,-66.344395
+ACS,OTN-Global,ACS002,Underwater mooring,117,66.01829,-66.58431
+ACS,OTN-Global,ACS003,Underwater mooring,82,66.01186,-66.55526
+ACS,OTN-Global,ACS004,Underwater mooring,173,66.00568,-66.52592
+ACS,OTN-Global,ACS005,Underwater mooring,115,65.99931,-66.49643
+ACS,OTN-Global,ACS006,Underwater mooring,375,65.99328,-66.46783
+ACS,OTN-Global,ACS007,Underwater mooring,241,65.98663,-66.43857
+ACS,OTN-Global,ACS008,Underwater mooring,208,65.98055,-66.40946
+ACS,OTN-Global,ACS009,Underwater mooring,183,65.97414,-66.38048
+ACS,OTN-Global,ACS-ST-PanR01,Underwater mooring,109,66.1478,-65.7804
+ACS,OTN-Global,ACS-ST-PanR02,Underwater mooring,116,66.1482,-65.7793
+ACS,OTN-Global,ACS-ST-PanR03,Underwater mooring,129,66.1487,-65.7779
+ACS,OTN-Global,ACS-ST-PanR04,Underwater mooring,135,66.1492,-65.7769
+ACS,OTN-Global,ACS-ST-PanR05,Underwater mooring,110,66.146,-65.7846
+ACS,OTN-Global,ACS-ST-PanR06,Underwater mooring,103,66.1468,-65.7827

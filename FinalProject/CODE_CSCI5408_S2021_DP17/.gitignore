@@ -1,0 +1,5 @@
+target
+dependency-reduced-pom.xml
+src/main/java/database/database_server/
+src/main/java/database/database_in_memory/
+src/main/java/output/

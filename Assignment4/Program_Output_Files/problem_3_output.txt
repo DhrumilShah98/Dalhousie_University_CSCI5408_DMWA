@@ -1,0 +1,142 @@
+TF-IDF (Term Frequency - Inverse Document Frequency
+===================================================
+Total Document: 662
+Search Query   df        N/df                          Log10(N/df)         
+Canada         123       662/123=5.382113821138211     0.730952878000302   
+Moncton        28        662/28=23.642857142857142     1.3736999580974807  
+Toronto        65        662/65=10.184615384615384     1.0079446327968444  
+
+
+Calculation of term Canada
+==========================
+Term: Canada
+Canada appeared in 123 documents        Total Words(m)      Frequency(f)        
+Article: #3                             34                  1                   
+Article: #7                             29                  1                   
+Article: #10                            33                  1                   
+Article: #19                            24                  1                   
+Article: #22                            30                  1                   
+Article: #27                            33                  1                   
+Article: #29                            33                  1                   
+Article: #32                            33                  1                   
+Article: #34                            33                  2                   
+Article: #35                            26                  1                   
+Article: #38                            31                  1                   
+Article: #40                            34                  1                   
+Article: #56                            20                  1                   
+Article: #59                            35                  1                   
+Article: #66                            29                  2                   
+Article: #67                            37                  1                   
+Article: #68                            28                  1                   
+Article: #89                            30                  1                   
+Article: #93                            31                  1                   
+Article: #94                            35                  1                   
+Article: #96                            31                  1                   
+Article: #97                            31                  1                   
+Article: #109                           33                  1                   
+Article: #111                           26                  1                   
+Article: #114                           32                  1                   
+Article: #125                           35                  2                   
+Article: #134                           32                  2                   
+Article: #149                           26                  1                   
+Article: #150                           35                  1                   
+Article: #155                           33                  1                   
+Article: #164                           31                  1                   
+Article: #165                           27                  2                   
+Article: #170                           29                  1                   
+Article: #178                           36                  1                   
+Article: #181                           35                  1                   
+Article: #185                           33                  1                   
+Article: #188                           28                  1                   
+Article: #189                           29                  1                   
+Article: #190                           29                  1                   
+Article: #191                           31                  1                   
+Article: #201                           32                  2                   
+Article: #207                           32                  1                   
+Article: #211                           27                  1                   
+Article: #216                           33                  3                   
+Article: #222                           33                  2                   
+Article: #223                           31                  3                   
+Article: #225                           33                  1                   
+Article: #226                           33                  1                   
+Article: #236                           32                  2                   
+Article: #240                           6                   1                   
+Article: #242                           30                  1                   
+Article: #245                           30                  1                   
+Article: #254                           32                  1                   
+Article: #261                           30                  1                   
+Article: #267                           35                  1                   
+Article: #268                           37                  1                   
+Article: #279                           35                  1                   
+Article: #293                           30                  1                   
+Article: #297                           33                  1                   
+Article: #299                           31                  3                   
+Article: #318                           34                  1                   
+Article: #328                           33                  1                   
+Article: #329                           30                  1                   
+Article: #332                           30                  1                   
+Article: #336                           33                  1                   
+Article: #337                           32                  2                   
+Article: #356                           34                  1                   
+Article: #359                           32                  1                   
+Article: #360                           30                  3                   
+Article: #363                           27                  2                   
+Article: #374                           36                  1                   
+Article: #390                           29                  1                   
+Article: #393                           30                  1                   
+Article: #394                           30                  2                   
+Article: #398                           32                  1                   
+Article: #405                           33                  1                   
+Article: #409                           36                  1                   
+Article: #411                           31                  1                   
+Article: #416                           33                  1                   
+Article: #423                           34                  1                   
+Article: #429                           31                  1                   
+Article: #431                           33                  1                   
+Article: #436                           31                  1                   
+Article: #442                           32                  1                   
+Article: #445                           36                  1                   
+Article: #447                           25                  1                   
+Article: #451                           29                  1                   
+Article: #459                           32                  1                   
+Article: #461                           30                  3                   
+Article: #462                           32                  1                   
+Article: #468                           30                  2                   
+Article: #478                           33                  1                   
+Article: #480                           27                  1                   
+Article: #485                           36                  1                   
+Article: #496                           31                  1                   
+Article: #502                           33                  1                   
+Article: #503                           32                  1                   
+Article: #504                           34                  1                   
+Article: #506                           34                  1                   
+Article: #513                           35                  1                   
+Article: #517                           35                  1                   
+Article: #520                           34                  2                   
+Article: #534                           31                  1                   
+Article: #542                           32                  1                   
+Article: #543                           32                  1                   
+Article: #548                           32                  2                   
+Article: #550                           26                  1                   
+Article: #553                           34                  1                   
+Article: #560                           29                  1                   
+Article: #569                           30                  1                   
+Article: #570                           32                  1                   
+Article: #576                           28                  1                   
+Article: #584                           35                  1                   
+Article: #589                           36                  1                   
+Article: #595                           31                  1                   
+Article: #606                           33                  1                   
+Article: #613                           39                  1                   
+Article: #619                           32                  1                   
+Article: #632                           30                  1                   
+Article: #636                           33                  1                   
+Article: #646                           33                  1                   
+Article: #658                           36                  1                   
+Article: #661                           30                  1                   
+
+
+News article with highest relative frequency
+============================================
+Content: Whos PlayingMatchup: Canada vs. GreeceStandings:tableGroup Atrtd/tdtdTeam/tdtdGP/tdtdW/tdtdL/tdtdPCT/tdtdPOINTS/td/trtrtd1/tdtdGreece/tdtd-/td
+f/m: 0.16666667

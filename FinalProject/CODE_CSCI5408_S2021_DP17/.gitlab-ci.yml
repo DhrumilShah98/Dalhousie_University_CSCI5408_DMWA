@@ -1,0 +1,59 @@
+variables:
+  # maven option to clean the generated target folder.
+  MAVEN_CLEAN_OPT: "clean"
+
+  # generated JAR file name by maven command "mvn package".
+  GENERATED_JAR_FILE_NAME: "csci-5408-s2021-dp17-1.0.0.jar"
+
+  # target folder name where all build related artifacts are stored/downloaded.
+  TARGET_FOLDER_NAME: "target"
+
+  # Maven JDK Image
+  MAVEN_JDK_IMAGE: "3.8.1-jdk-8"
+
+  # Ruby Image
+  RUBY_IMAGE: "ruby:latest"
+
+stages:
+  # compiles this application.
+  - compile
+
+  # tests this application.
+  - test
+
+  # builds this application.
+  - build
+
+compileStep:
+  stage: compile
+  image: $MAVEN_JDK_IMAGE
+  tags:
+    - ugrad
+  script:
+    - mvn $MAVEN_CLEAN_OPT compile
+
+testStep:
+  stage: test
+  image: $MAVEN_JDK_IMAGE
+  tags:
+    - ugrad
+  script:
+    - mvn test
+  artifacts:
+    paths:
+      - $TARGET_FOLDER_NAME/surefire-reports/Group13Test.txt
+    reports:
+      junit:
+        - $TARGET_FOLDER_NAME/surefire-reports/TEST-*.xml
+
+buildStep:
+  stage: build
+  image: $MAVEN_JDK_IMAGE
+  tags:
+    - ugrad
+  script:
+    - mvn package
+  artifacts:
+    when: on_success
+    paths:
+      - $TARGET_FOLDER_NAME/*.jar
