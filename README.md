@@ -3,7 +3,7 @@ All assignments, and the final project done in class CSCI5408(Data Management, W
 Final Grade Received - A+
 
 ## Authors
-* [Dhrumil Amish Shah](dh416386@dal.ca) - *(Creator)*
+* [Dhrumil Amish Shah](mailto:dh416386@dal.ca) - *(Creator)*
 <br/>
 
 ## Assignments
@@ -15,7 +15,7 @@ Final Grade Received - A+
 * The objective	of this	assignment is to understand research and industry problems related to distributed database operations, and transactions	management.
 
 ### Assignment 3 (Grade Received - 100%)
-* The objective	of this	assignment is to understand	Big	Data processing problems, and NoSQL database (document,	and	graph).	
+* The objective	of this	assignment is to understand Big Data processing problems, and NoSQL database (document,	and	graph).	
 
 ### Assignment 4 (Grade Received - 100%)
 * The objective of this assignment is to understand BI framework, creating star/snowflake schema, and concept of sentiment and semantic analysis.
