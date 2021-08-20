@@ -13,25 +13,25 @@ Final Letter Grade Received - **A+**
 * Weight Achieved - 10/10
 * Grade - 100%
 
-### Assignment 2 (Grade Received - 100%)
+### Assignment 2
 * The objective	of this	assignment is to understand research and industry problems related to distributed database operations, and transactions	management.
 * Assignment 2 GitHub - [Assignment 2](https://github.com/DhrumilShah98/Dalhousie_University_CSCI5408_DMWA/tree/main/Assignment2)
 * Weight Achieved - 10/10
 * Grade - 100%
 
-### Assignment 3 (Grade Received - 100%)
+### Assignment 3
 * The objective	of this	assignment is to understand Big Data processing problems, and NoSQL database (document,	and	graph).	
 * Assignment 3 GitHub - [Assignment 3](https://github.com/DhrumilShah98/Dalhousie_University_CSCI5408_DMWA/tree/main/Assignment3)
 * Weight Achieved - 10/10
 * Grade - 100%
 
-### Assignment 4 (Grade Received - 100%)
+### Assignment 4
 * The objective of this assignment is to understand BI framework, creating star/snowflake schema, and concept of sentiment and semantic analysis.
 * Assignment 4 GitHub - [Assignment 4](https://github.com/DhrumilShah98/Dalhousie_University_CSCI5408_DMWA/tree/main/Assignment4)
 * Weight Achieved - 10/10
 * Grade - 100%
 
-### Assignment 5 (Grade Received - 100%)
+### Assignment 5
 *  The objective of this assignment is to understand Database Administration, and Database Security.
 * Assignment 5 GitHub - [Assignment 5](https://github.com/DhrumilShah98/Dalhousie_University_CSCI5408_DMWA/tree/main/Assignment5)
 * Weight Achieved - 10/10
@@ -61,4 +61,16 @@ Final Letter Grade Received - **A+**
 * Group Project - Phase 1:
    * Feasibility Study Report:
       * Weight Achieved - 2/2
+      * Grade - 100%
+* Group Project - Phase 2:
+   * Weight Achieved - 19.55/20
+   * Grade - 97.75%
+   * Project Report:
+      * Weight Achieved - 4.75/5
+      * Grade - 95%
+   * Project Go-Live:
+      * Weight Achieved - 9.8/10
+      * Grade - 98%
+   * Project Closure Q & A:
+      * Weight Achieved - 5/5
       * Grade - 100%
