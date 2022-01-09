@@ -1,5 +1,5 @@
-# Dalhousie University | CSCI5408 | DMWA (Data Management, Warehousing and Analytics)
-All assignments and the final project are completed in class CSCI5408 (Data Management, Warehousing and Analytics) of MACS at Dalhousie University. CSCI 5408 DMWA Dalhousie University.<br/>
+# Dalhousie University | CSCI 5408 | DMWA (Data Management, Warehousing and Analytics)
+All assignments and the final project are completed in class CSCI 5408 (Data Management, Warehousing and Analytics) of MACS at Dalhousie University. CSCI 5408 DMWA Dalhousie University.<br/>
 Final Letter Grade Received: **A+**
 
 ## Authors
